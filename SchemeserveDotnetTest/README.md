@@ -12,7 +12,7 @@ Personally, I would have written this as one generic proxy/cache service that ca
 * How it is mapped internally.
 * How it is obtained from the cache internally, and how the data relates to each other.
 
-Thank you for the opportunity to illustrate my creative and problem-solving capabilities.
+<b>Thank you for the opportunity to illustrate my creative and problem-solving capabilities.</b>
 
 ## Disclosure
 * Some code portions are co-authored with an AI agent. Stack Overflow is dead ;)
@@ -189,7 +189,7 @@ sequenceDiagram
             Sync-->>Lookup: synced (MISS)
         else list is current
             Sync-->>Lookup: nothing to do (HIT)
-        else CQC unreachable
+        else CQC unavailable or list incomplete
             Sync-->>Lookup: error, keep stored list (STALE)
         end
         Lookup->>Repo: GetLastIndexSyncAsync
@@ -238,10 +238,10 @@ sequenceDiagram
             Lookup->>Repo: DeleteProviderAsync(id)
             Lookup-->>Ctrl: null
             Ctrl-->>Client: 404 Provider not found
-        else CQC unreachable and a stored copy exists
+        else CQC unavailable and a stored copy exists
             Lookup-->>Ctrl: expired copy (STALE)
             Ctrl-->>Client: 200 JSON
-        else CQC unreachable and nothing stored
+        else CQC unavailable and nothing stored
             Lookup-->>Ctrl: CqcUnavailableException
             Ctrl-->>Client: 503 CQC unavailable
         end
@@ -272,7 +272,7 @@ sequenceDiagram
     Job->>Sync: SyncIfExpiredAsync (at startup, then daily)
     Sync->>Repo: GetLastIndexSyncAsync
     Repo-->>Sync: last sync time
-    alt older than 30 days
+    alt never synced or older than 30 days
         loop each page of 1000
             Sync->>Http: GetProvidersPageAsync(page, 1000)
             Http->>CQC: GET providers?page=n&perPage=1000
@@ -287,7 +287,7 @@ sequenceDiagram
 ```
 *(Mermaid diagram) Monthly refresh of the full providers list.*
 
-* **Children refreshed with the list:** in the same transaction, any stored provider (`CqcProviders`) whose id is no longer in CQC's list is deleted, and every remaining stored provider is **<u>marked as expired</u>**. The first request for each provider after a list refresh therefore fetches it fresh from CQC and stores it again. The expired copy is kept only as a fallback if CQC is unreachable at that moment.
+* **Children refreshed with the list:** in the same transaction, any stored provider (`CqcProviders`) whose id is no longer in CQC's list is deleted, and every remaining stored provider is **<u>marked as expired</u>**. The first request for each provider after a list refresh therefore fetches it fresh from CQC and stores it again. The expired copy is kept only as a fallback if CQC is unreachable at that moment, and is marked as stale.
 
 ```mermaid
 sequenceDiagram
@@ -305,42 +305,5 @@ sequenceDiagram
 ```
 *(Mermaid diagram) What happens to stored providers when the list is refreshed.*
 
-* **Provider ids validated against the list:** `GET v1/providers/{id}` only serves a stored copy if the id is in the providers list. Otherwise CQC is asked directly. A provider CQC added since the last sync is stored and added to the list, and an id CQC no longer knows (404) is removed locally.
-
-```mermaid
-sequenceDiagram
-    participant Client
-    participant Ctrl as CQCController
-    participant Lookup as ProviderLookupService
-    participant Repo as ProviderRepository
-    participant Http as CqcRetrievalService
-    participant CQC as CQC API
-    Client->>Ctrl: GET v1/providers/id
-    Ctrl->>Lookup: GetProviderByIdAsync(id)
-    Lookup->>Repo: IsInIndexAsync(id)
-    Lookup->>Repo: GetProviderAsync(id)
-    alt id is in the list and stored copy is under 30 days old
-        Lookup-->>Ctrl: stored copy (HIT)
-    else not in the list, not stored, or expired
-        Lookup->>Http: GetProviderByIdAsync(id)
-        Http->>CQC: GET providers/id
-        alt 200 OK
-            CQC-->>Http: provider
-            Http-->>Lookup: provider
-            Lookup->>Repo: SaveProviderAsync, AddToIndexAsync if not listed
-            Lookup-->>Ctrl: provider (MISS)
-        else 404 Not Found
-            CQC-->>Http: 404
-            Http-->>Lookup: null
-            Lookup->>Repo: DeleteProviderAsync(id)
-            Lookup-->>Ctrl: null, controller returns 404
-        else CQC unreachable and a stored copy exists
-            Lookup-->>Ctrl: expired copy (STALE)
-        else CQC unreachable and nothing stored
-            Lookup-->>Ctrl: CqcUnavailableException, controller returns 503
-        end
-    end
-    Ctrl-->>Client: JSON body, X-Cache and X-Fetched-At headers
-```
-*(Mermaid diagram) How a single provider request is validated against the list.*
+* **Provider ids validated against the list:** `GET v1/providers/{id}` only serves a stored copy if the id is in the providers list. Otherwise CQC is asked directly. A provider CQC added since the last sync is stored and added to the list, and an id CQC no longer knows (404) is removed locally. See the single provider diagram under API endpoints.
 
