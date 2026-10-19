@@ -51,6 +51,8 @@ I deliberately designed the project, as is, in classic C# because I am not yet f
 * **Storing records as JSON:** in a design that serves several providers, each record could be stored as the JSON CQC returns rather than one column per field, so any provider's data fits the same table. SQL Server handles this well. A document database such as MongoDB would only be worth it if the stored data needed to be searched or reported on in depth.
 * **Stopping abandoned work:** if a caller gives up on a request, its database queries could be cancelled too, not just the call to CQC.
 * **A status page:** a small internal page, on its own port (say 8080), showing the cache's state, whether CQC is reachable, and a way to test or manage the API key.
+* **Health API end-point** that provdes summary for API, API version and commit info, and data health in general. This can by used by a more dedicated monitoring implementation (Prometheus/Grafana).
+* **Alerts and triggers** notifications via email/Slack/Telegram of any critical issues.
 
 ## appsettings.json
 ```
