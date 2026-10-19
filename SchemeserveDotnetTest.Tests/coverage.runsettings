@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Code coverage settings for "dotnet test". -->
+<!-- Classes that need SQL Server or the running app are excluded in code with [ExcludeFromCodeCoverage], -->
+<!-- which both coverlet and Visual Studio honour. Only generated code has to be excluded here. -->
+<!-- Microsoft.* and System.* are code the compiler generates into the project (e.g. for OpenAPI), not our code. -->
+<RunSettings>
+  <DataCollectionRunSettings>
+    <DataCollectors>
+      <DataCollector friendlyName="XPlat code coverage">
+        <Configuration>
+          <Format>cobertura</Format>
+          <Exclude>[SchemeserveDotnetTest]Microsoft.*,[SchemeserveDotnetTest]System.*</Exclude>
+        </Configuration>
+      </DataCollector>
+    </DataCollectors>
+  </DataCollectionRunSettings>
+</RunSettings>

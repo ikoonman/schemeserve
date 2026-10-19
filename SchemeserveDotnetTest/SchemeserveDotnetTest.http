@@ -1,0 +1,29 @@
+@baseUrl = http://localhost:5191
+
+### Full providers list (from the local database, synced from CQC monthly)
+GET {{baseUrl}}/v1/providers
+Accept: application/json
+
+### Providers list, first page of 1000 (CQC-style paging)
+GET {{baseUrl}}/v1/providers?page=1&perPage=1000
+Accept: application/json
+
+### Providers list, invalid paging (expect 400)
+GET {{baseUrl}}/v1/providers?page=0&perPage=5000
+Accept: application/json
+
+### Providers list, non-numeric paging value (expect 400)
+GET {{baseUrl}}/v1/providers?page=4&perPage=AJJJ
+Accept: application/json
+
+### Single provider (first call MISS, repeat for HIT; check the X-Cache header)
+GET {{baseUrl}}/v1/providers/1-10000227676
+Accept: application/json
+
+### Unknown provider id (expect 404 Provider not found)
+GET {{baseUrl}}/v1/providers/1-999999999999
+Accept: application/json
+
+### Id in the wrong format (does not match the route, expect 404)
+GET {{baseUrl}}/v1/providers/abc
+Accept: application/json

@@ -1,0 +1,40 @@
+{
+  "providerId": "1-1000270207",
+  "locationIds": [
+    "1-1096839808"
+  ],
+  "organisationType": "Provider",
+  "ownershipType": "Organisation",
+  "type": "Independent Healthcare Org",
+  "name": "Wykeham Health Ltd",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2014-02-10",
+  "deregistrationDate": "2015-05-22",
+  "companiesHouseNumber": "08451076",
+  "website": "www.wykehamhealth.co.uk",
+  "postalAddressLine1": "Buttercross Suite",
+  "postalAddressLine2": "The Friarsgate Practice, Stockbridge Road",
+  "postalAddressTownCity": "Winchester",
+  "postalAddressCounty": "Hampshire",
+  "region": "South East",
+  "postalCode": "SO22 6EL",
+  "onspdLatitude": 51.074249,
+  "onspdLongitude": -1.336797,
+  "onspdIcbCode": "E54000067",
+  "onspdIcbName": "NHS Hampshire and Isle of Wight Integrated Care Board",
+  "mainPhoneNumber": "01962871745",
+  "inspectionDirectorate": "Primary medical services",
+  "constituency": "Winchester",
+  "localAuthority": "Hampshire",
+  "contacts": [],
+  "relationships": [],
+  "regulatedActivities": [],
+  "inspectionCategories": [
+    {
+      "code": "P7",
+      "primary": "true",
+      "name": "Independent consulting doctors"
+    }
+  ],
+  "inspectionAreas": []
+}

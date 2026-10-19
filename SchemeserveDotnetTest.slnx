@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SchemeserveDotnetTest.Tests/SchemeserveDotnetTest.Tests.csproj" />
+  <Project Path="SchemeserveDotnetTest/SchemeserveDotnetTest.csproj" />
+</Solution>

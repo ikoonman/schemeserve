@@ -1,0 +1,4013 @@
+{
+  "total": 64388,
+  "firstPageUri": "\/providers?page=1&perPage=1000",
+  "page": 1,
+  "previousPageUri": null,
+  "lastPageUri": "\/providers?page=65&perPage=1000",
+  "nextPageUri": "\/providers?page=2&perPage=1000",
+  "perPage": 1000,
+  "totalPages": 65,
+  "providers": [
+    {
+      "providerId": "1-10000227676",
+      "providerName": "Healthcare Employment Partners Ltd"
+    },
+    {
+      "providerId": "1-10000652851",
+      "providerName": "Artemis Cystitis Limited"
+    },
+    {
+      "providerId": "1-10001429521",
+      "providerName": "Phoenix Response Services Limited"
+    },
+    {
+      "providerId": "1-10001429585",
+      "providerName": "Diamond Heart Health Care Ltd"
+    },
+    {
+      "providerId": "1-10001820272",
+      "providerName": "SKDK Ltd"
+    },
+    {
+      "providerId": "1-1000205933",
+      "providerName": "Kudos Care (UK) Limited"
+    },
+    {
+      "providerId": "1-1000270207",
+      "providerName": "Wykeham Health Ltd"
+    },
+    {
+      "providerId": "1-1000281973",
+      "providerName": "The Forge Surgery"
+    },
+    {
+      "providerId": "1-1000325737",
+      "providerName": "Mr Mahesh Nagpal"
+    },
+    {
+      "providerId": "1-1000354463",
+      "providerName": "K Dental Studios Limited"
+    },
+    {
+      "providerId": "1-1000388746",
+      "providerName": "British Association for Performing Arts Medicine"
+    },
+    {
+      "providerId": "1-1000401892",
+      "providerName": "Totally Living Care Limited"
+    },
+    {
+      "providerId": "1-10004262658",
+      "providerName": "Dr Ashish Chadha"
+    },
+    {
+      "providerId": "1-10004549510",
+      "providerName": "Assisted Care Solutions Limited"
+    },
+    {
+      "providerId": "1-10004635085",
+      "providerName": "Dr Imran Zaman"
+    },
+    {
+      "providerId": "1-10004963737",
+      "providerName": "Cradley Care Services Ltd"
+    },
+    {
+      "providerId": "1-10005045759",
+      "providerName": "Dr Sudipta Sengupta"
+    },
+    {
+      "providerId": "1-10005257491",
+      "providerName": "The Rock Dental Practice Partnership"
+    },
+    {
+      "providerId": "1-10005354788",
+      "providerName": "Sarat Healthcare Ltd"
+    },
+    {
+      "providerId": "1-10005602152",
+      "providerName": "Malvern Hills Dental Care"
+    },
+    {
+      "providerId": "1-10005803682",
+      "providerName": "Care Solutions Direct Limited"
+    },
+    {
+      "providerId": "1-10006288955",
+      "providerName": "Supportive Care Services Ltd"
+    },
+    {
+      "providerId": "1-10006742735",
+      "providerName": "Inspire Care Agencies Limited"
+    },
+    {
+      "providerId": "1-10006912129",
+      "providerName": "Square Mile Dental Centre Limited"
+    },
+    {
+      "providerId": "1-10010591537",
+      "providerName": "Restorehairclinics Limited"
+    },
+    {
+      "providerId": "1-10011046285",
+      "providerName": "Advance Implant Training Limited"
+    },
+    {
+      "providerId": "1-10011232322",
+      "providerName": "GMP Domiciliary Care Agency Ltd"
+    },
+    {
+      "providerId": "1-10012109005",
+      "providerName": "Positive Steps Specialist Care Services Limited"
+    },
+    {
+      "providerId": "1-10012371764",
+      "providerName": "East Point Care Limited"
+    },
+    {
+      "providerId": "1-10012548611",
+      "providerName": "Harriss Dental Ltd"
+    },
+    {
+      "providerId": "1-10013140825",
+      "providerName": "Bard Limited"
+    },
+    {
+      "providerId": "1-10014465830",
+      "providerName": "Trusted Hands Supported Living Ltd"
+    },
+    {
+      "providerId": "1-10014850430",
+      "providerName": "Rejuv Lab London Limited"
+    },
+    {
+      "providerId": "1-10017595828",
+      "providerName": "Actus Healthcare Limited"
+    },
+    {
+      "providerId": "1-10018082752",
+      "providerName": "Dr Hayder Hasen"
+    },
+    {
+      "providerId": "1-10019056475",
+      "providerName": "West Dulwich Dental Limited"
+    },
+    {
+      "providerId": "1-10019413075",
+      "providerName": "Care United Services Ltd"
+    },
+    {
+      "providerId": "1-10019431345",
+      "providerName": "KYAH Social Care Services Ltd"
+    },
+    {
+      "providerId": "1-10019431367",
+      "providerName": "Oasis Professional Care Services Ltd"
+    },
+    {
+      "providerId": "1-1002088970",
+      "providerName": "Roberts-Harry Clinic Ltd"
+    },
+    {
+      "providerId": "1-10021538424",
+      "providerName": "Dr Rebecca Barwell"
+    },
+    {
+      "providerId": "1-1002156221",
+      "providerName": "Dedicated Care East Anglia Limited"
+    },
+    {
+      "providerId": "1-1002178947",
+      "providerName": "Olney Dental Care"
+    },
+    {
+      "providerId": "1-1002244814",
+      "providerName": "Careview Caring Support Services Limited"
+    },
+    {
+      "providerId": "1-1002324476",
+      "providerName": "Greenshoot Care Services Limited"
+    },
+    {
+      "providerId": "1-10023512905",
+      "providerName": "Urban Cousins Care Limited"
+    },
+    {
+      "providerId": "1-1002406617",
+      "providerName": "Avanta Care Ltd"
+    },
+    {
+      "providerId": "1-1002438550",
+      "providerName": "Tavy Care Services Limited"
+    },
+    {
+      "providerId": "1-1002442172",
+      "providerName": "Dr Vita Roga-Wiles"
+    },
+    {
+      "providerId": "1-1002514824",
+      "providerName": "Dr Thekkinkattil Madhavan"
+    },
+    {
+      "providerId": "1-1002564492",
+      "providerName": "Yes Care Services Ltd"
+    },
+    {
+      "providerId": "1-10028263975",
+      "providerName": "ExemplaCare Limited"
+    },
+    {
+      "providerId": "1-10033007435",
+      "providerName": "Shine Health Care Solutions Ltd"
+    },
+    {
+      "providerId": "1-10036346925",
+      "providerName": "Hometreatment Limited"
+    },
+    {
+      "providerId": "1-10036481258",
+      "providerName": "Dr Angela Moulson"
+    },
+    {
+      "providerId": "1-10036515035",
+      "providerName": "Dr Shazia Chaudhary"
+    },
+    {
+      "providerId": "1-10036679435",
+      "providerName": "Harley Street Studio Limited"
+    },
+    {
+      "providerId": "1-10039829023",
+      "providerName": "Roky Care Ltd"
+    },
+    {
+      "providerId": "1-10039829239",
+      "providerName": "RAMVS Limited"
+    },
+    {
+      "providerId": "1-10040335302",
+      "providerName": "The Rock Practice Limited"
+    },
+    {
+      "providerId": "1-10040805797",
+      "providerName": "Haven Home Care Group Ltd"
+    },
+    {
+      "providerId": "1-10040976733",
+      "providerName": "Mind Care & Support Limited"
+    },
+    {
+      "providerId": "1-10041017828",
+      "providerName": "Integrity Care Agency Ltd"
+    },
+    {
+      "providerId": "1-10041083312",
+      "providerName": "Rosmead Healthcare Ltd"
+    },
+    {
+      "providerId": "1-10041555356",
+      "providerName": "Veecollins Limited"
+    },
+    {
+      "providerId": "1-1004159912",
+      "providerName": "Epiphany Trading Limited"
+    },
+    {
+      "providerId": "1-10042013835",
+      "providerName": "Response Aid Solutions Limited"
+    },
+    {
+      "providerId": "1-1004210343",
+      "providerName": "Dr Michael Connell"
+    },
+    {
+      "providerId": "1-1004323847",
+      "providerName": "N M Dental Care Limited"
+    },
+    {
+      "providerId": "1-1004425775",
+      "providerName": "Sygmacare"
+    },
+    {
+      "providerId": "1-1004455286",
+      "providerName": "Smiles Centre"
+    },
+    {
+      "providerId": "1-1004515435",
+      "providerName": "L W Appleton and Z Khan"
+    },
+    {
+      "providerId": "1-10046530175",
+      "providerName": "Covid Home Test UK Ltd"
+    },
+    {
+      "providerId": "1-10046559500",
+      "providerName": "University Dental Practice"
+    },
+    {
+      "providerId": "1-1004662164",
+      "providerName": "Red Label Medical Limited"
+    },
+    {
+      "providerId": "1-10046679902",
+      "providerName": "Southwest Dental Implant Clinic Limited"
+    },
+    {
+      "providerId": "1-10046679919",
+      "providerName": "St Augustine Ltd"
+    },
+    {
+      "providerId": "1-10047394243",
+      "providerName": "MIDLANDS MSK LLP"
+    },
+    {
+      "providerId": "1-10047657863",
+      "providerName": "Optimist Care Ltd"
+    },
+    {
+      "providerId": "1-10047922762",
+      "providerName": "Astounding Care Services Ltd"
+    },
+    {
+      "providerId": "1-10047922824",
+      "providerName": "Just Right Home Care Ltd"
+    },
+    {
+      "providerId": "1-10048153228",
+      "providerName": "Marigold Helping Hands Ltd"
+    },
+    {
+      "providerId": "1-10049338736",
+      "providerName": "First Care Healthcare Ltd"
+    },
+    {
+      "providerId": "1-10049925215",
+      "providerName": "Clinica Private Healthcare Ltd"
+    },
+    {
+      "providerId": "1-10053205238",
+      "providerName": "Maisy Care at Home Ltd"
+    },
+    {
+      "providerId": "1-10053620848",
+      "providerName": "Dr Alan Clive Gold"
+    },
+    {
+      "providerId": "1-10054179370",
+      "providerName": "Mathalie Care Services Limited"
+    },
+    {
+      "providerId": "1-10054416225",
+      "providerName": "Lillibet Healthcare2 Limited"
+    },
+    {
+      "providerId": "1-10054530412",
+      "providerName": "Oaklands Residential Care Limited"
+    },
+    {
+      "providerId": "1-10057552693",
+      "providerName": "ResCare Northampton Ltd"
+    },
+    {
+      "providerId": "1-10057570738",
+      "providerName": "Amit Patel and Himesh Amin"
+    },
+    {
+      "providerId": "1-10057716104",
+      "providerName": "Chisledent Limited"
+    },
+    {
+      "providerId": "1-10057849987",
+      "providerName": "Jas Kainth, Amrit Kainth & Gurpreet Kainth"
+    },
+    {
+      "providerId": "1-10058382215",
+      "providerName": "Jaika Healthcare Limited"
+    },
+    {
+      "providerId": "1-10058658365",
+      "providerName": "Gravity Care Services Ltd"
+    },
+    {
+      "providerId": "1-10060177925",
+      "providerName": "Nurseready Limited"
+    },
+    {
+      "providerId": "1-10060258239",
+      "providerName": "Core Care Provider Services Limited"
+    },
+    {
+      "providerId": "1-10063294082",
+      "providerName": "Mrs Vedah Kayumba"
+    },
+    {
+      "providerId": "1-10063817597",
+      "providerName": "Dental Solutions Partnership"
+    },
+    {
+      "providerId": "1-10065277775",
+      "providerName": "Case Management Solutions Ltd"
+    },
+    {
+      "providerId": "1-10067157285",
+      "providerName": "Seven Day Care (Essex) Ltd"
+    },
+    {
+      "providerId": "1-1006873994",
+      "providerName": "City Cap Limited"
+    },
+    {
+      "providerId": "1-1006934563",
+      "providerName": "Ageless Solutions Ltd"
+    },
+    {
+      "providerId": "1-1007176147",
+      "providerName": "Goldcare Professionals Limited"
+    },
+    {
+      "providerId": "1-10074943294",
+      "providerName": "Cannock Chase Clinical Alliance Ltd"
+    },
+    {
+      "providerId": "1-10079304536",
+      "providerName": "EMATS Limited"
+    },
+    {
+      "providerId": "1-10079328372",
+      "providerName": "Waleed Askar, Andrew Hale and Ann Hale"
+    },
+    {
+      "providerId": "1-10079394665",
+      "providerName": "Abi-Support Ltd"
+    },
+    {
+      "providerId": "1-10079557795",
+      "providerName": "Clayhall Dental Care"
+    },
+    {
+      "providerId": "1-10079773859",
+      "providerName": "Falchion Orthodontics Limited"
+    },
+    {
+      "providerId": "1-10079980892",
+      "providerName": "Tanglewood Project Company No. 1 Limited"
+    },
+    {
+      "providerId": "1-10080421715",
+      "providerName": "Honeysuckle Home Care Limited"
+    },
+    {
+      "providerId": "1-10081205783",
+      "providerName": "Dr Niranjan Ratnasingham"
+    },
+    {
+      "providerId": "1-10081320265",
+      "providerName": "Knighton DP Ltd"
+    },
+    {
+      "providerId": "1-10081766334",
+      "providerName": "SarahLouise Aesthetics"
+    },
+    {
+      "providerId": "1-10085333792",
+      "providerName": "Umbrella Health Care Ltd"
+    },
+    {
+      "providerId": "1-10085614717",
+      "providerName": "Reliable Community Care Services Ltd"
+    },
+    {
+      "providerId": "1-10085636968",
+      "providerName": "Professor Nicholas Frederick Barker"
+    },
+    {
+      "providerId": "1-10085892826",
+      "providerName": "Harkamel Gill & Taranjit Sangar"
+    },
+    {
+      "providerId": "1-10085915869",
+      "providerName": "Amanda Azzopardi Aesthetics Ltd"
+    },
+    {
+      "providerId": "1-10085916134",
+      "providerName": "Ashvilla Dental Practice Limited"
+    },
+    {
+      "providerId": "1-10086054860",
+      "providerName": "Teeth Network Limited"
+    },
+    {
+      "providerId": "1-10086075232",
+      "providerName": "Stratfield Road Dental Practice Partnership"
+    },
+    {
+      "providerId": "1-10087278600",
+      "providerName": "Dr Gustavo Adolfo Berni"
+    },
+    {
+      "providerId": "1-10090623013",
+      "providerName": "Zenith Health Care Northwest Ltd"
+    },
+    {
+      "providerId": "1-10090794012",
+      "providerName": "Amanda Jane Tozer"
+    },
+    {
+      "providerId": "1-10090860520",
+      "providerName": "Town and Country Care Services Ltd"
+    },
+    {
+      "providerId": "1-10091187730",
+      "providerName": "Marula Lodge Limited"
+    },
+    {
+      "providerId": "1-10094174175",
+      "providerName": "A.K.R. Limited"
+    },
+    {
+      "providerId": "1-10096369185",
+      "providerName": "Gentle Den Dorking Limited"
+    },
+    {
+      "providerId": "1-1010995026",
+      "providerName": "Bonham & Browne"
+    },
+    {
+      "providerId": "1-10111022565",
+      "providerName": "Caterham Smiles Limited"
+    },
+    {
+      "providerId": "1-1011204203",
+      "providerName": "GCH (West Drayton) Ltd"
+    },
+    {
+      "providerId": "1-10112922412",
+      "providerName": "Prideaux Manor Care Limited"
+    },
+    {
+      "providerId": "1-1011303030",
+      "providerName": "Orton Manor Ltd"
+    },
+    {
+      "providerId": "1-10121923201",
+      "providerName": "Miss Laura Beardsmore"
+    },
+    {
+      "providerId": "1-10126585753",
+      "providerName": "ASN Assertive Outreach and Consultancy Limited"
+    },
+    {
+      "providerId": "1-10126709264",
+      "providerName": "Your Safe Homecare Limited"
+    },
+    {
+      "providerId": "1-10127046918",
+      "providerName": "The Doting Carers Ltd"
+    },
+    {
+      "providerId": "1-10127052755",
+      "providerName": "Clocktower Dental Practice - Wealdstone"
+    },
+    {
+      "providerId": "1-10127052879",
+      "providerName": "Eunha Healthcare Ltd"
+    },
+    {
+      "providerId": "1-10127053500",
+      "providerName": "Home Comfort Care Agency Limited"
+    },
+    {
+      "providerId": "1-10127799619",
+      "providerName": "Hunt Green Ltd"
+    },
+    {
+      "providerId": "1-10128497616",
+      "providerName": "Rest Assure Care Ltd"
+    },
+    {
+      "providerId": "1-10128959521",
+      "providerName": "Jayaharan Medical Services Ltd"
+    },
+    {
+      "providerId": "1-10129335315",
+      "providerName": "Safa Aesthetics Limited"
+    },
+    {
+      "providerId": "1-1012959412",
+      "providerName": "Smy-Clinics Limited"
+    },
+    {
+      "providerId": "1-1013084464",
+      "providerName": "District Care Ltd"
+    },
+    {
+      "providerId": "1-1013115281",
+      "providerName": "Mr Mark Russell Jay"
+    },
+    {
+      "providerId": "1-1013146021",
+      "providerName": "Louie Dental Practice"
+    },
+    {
+      "providerId": "1-1013174996",
+      "providerName": "Mazdak Eyrumlu and Vahida Hashemi and Hassan Hashemi"
+    },
+    {
+      "providerId": "1-1013191740",
+      "providerName": "Bell View Help at Home Limited"
+    },
+    {
+      "providerId": "1-1013222928",
+      "providerName": "Mazdak Eyrumlu and Robert Hero"
+    },
+    {
+      "providerId": "1-10132497163",
+      "providerName": "Baxendale Care Home"
+    },
+    {
+      "providerId": "1-10132812788",
+      "providerName": "Hatzfeld Care (Lincoln) Limited"
+    },
+    {
+      "providerId": "1-10132857860",
+      "providerName": "EK Clinic Ltd"
+    },
+    {
+      "providerId": "1-10133001749",
+      "providerName": "Family Dental Practice"
+    },
+    {
+      "providerId": "1-10133001795",
+      "providerName": "Foley Park Dental and Implant Centre Ltd"
+    },
+    {
+      "providerId": "1-10133002438",
+      "providerName": "Executive Carers Limited"
+    },
+    {
+      "providerId": "1-10133209515",
+      "providerName": "Eureka Integrated Care Limited"
+    },
+    {
+      "providerId": "1-10133248158",
+      "providerName": "Medispa Cheshire Limited"
+    },
+    {
+      "providerId": "1-1013343710",
+      "providerName": "H White Ltd"
+    },
+    {
+      "providerId": "1-10133467128",
+      "providerName": "Daniel Kaufman and Tracey Black"
+    },
+    {
+      "providerId": "1-10134120266",
+      "providerName": "Agape Care Agency Limited"
+    },
+    {
+      "providerId": "1-10134241242",
+      "providerName": "Heroes Homecare Ltd"
+    },
+    {
+      "providerId": "1-10134599453",
+      "providerName": "Coventry Road Dental Partnership"
+    },
+    {
+      "providerId": "1-1013471269",
+      "providerName": "The Light Clinics Limited"
+    },
+    {
+      "providerId": "1-1013484558",
+      "providerName": "GP Primary Choice Limited"
+    },
+    {
+      "providerId": "1-1013495842",
+      "providerName": "Drs. S.M And P Pereira LLP"
+    },
+    {
+      "providerId": "1-1013533083",
+      "providerName": "Mazdak Eyrumlu and Jennifer Mountjoy"
+    },
+    {
+      "providerId": "1-1013633482",
+      "providerName": "Dr Manickam and Partners"
+    },
+    {
+      "providerId": "1-1013716288",
+      "providerName": "Philip Eccles and Michael Fulforth"
+    },
+    {
+      "providerId": "1-10144819015",
+      "providerName": "Ivybae Care Limited"
+    },
+    {
+      "providerId": "1-10144819059",
+      "providerName": "Maxey House Limited"
+    },
+    {
+      "providerId": "1-10144819174",
+      "providerName": "Martlesham Heath Dental Practice Partnership"
+    },
+    {
+      "providerId": "1-10144819195",
+      "providerName": "Restore Medical Alliance Limited"
+    },
+    {
+      "providerId": "1-10144819225",
+      "providerName": "Anay Investments Ltd"
+    },
+    {
+      "providerId": "1-10144819246",
+      "providerName": "Eden Housing & Support Ltd"
+    },
+    {
+      "providerId": "1-10147480248",
+      "providerName": "Hilldales Residential Care Home Ltd"
+    },
+    {
+      "providerId": "1-10148804323",
+      "providerName": "Quality Dental Fulham Ltd"
+    },
+    {
+      "providerId": "1-10150451128",
+      "providerName": "VSAM Limited"
+    },
+    {
+      "providerId": "1-1015105436",
+      "providerName": "Redcliffe Dental Practice"
+    },
+    {
+      "providerId": "1-1015188896",
+      "providerName": "Pee Wee's Personal Homecare Limited"
+    },
+    {
+      "providerId": "1-1015206221",
+      "providerName": "Deene Recruitment Limited"
+    },
+    {
+      "providerId": "1-1015282462",
+      "providerName": "Day and Night Homecare"
+    },
+    {
+      "providerId": "1-10153382397",
+      "providerName": "Havenly Care Limited"
+    },
+    {
+      "providerId": "1-10153401569",
+      "providerName": "The Hamlet Centre Trust"
+    },
+    {
+      "providerId": "1-10153573138",
+      "providerName": "Park House Dental Limited"
+    },
+    {
+      "providerId": "1-10153778719",
+      "providerName": "Boots Digital Health Limited"
+    },
+    {
+      "providerId": "1-1015379982",
+      "providerName": "North Kensington Medical Centre"
+    },
+    {
+      "providerId": "1-10153822247",
+      "providerName": "Godfrey Barnes Care SL Limited"
+    },
+    {
+      "providerId": "1-10153886160",
+      "providerName": "TCare Ltd"
+    },
+    {
+      "providerId": "1-1015398078",
+      "providerName": "East London Dental Care"
+    },
+    {
+      "providerId": "1-1015414296",
+      "providerName": "D P Rundle Dentalcare"
+    },
+    {
+      "providerId": "1-10154209003",
+      "providerName": "Venturi Cardiology Limited"
+    },
+    {
+      "providerId": "1-10154554799",
+      "providerName": "Carmen Jimenez Vallejo Limited"
+    },
+    {
+      "providerId": "1-10154647570",
+      "providerName": "Rose Healthcare Services Ltd Ltd"
+    },
+    {
+      "providerId": "1-1015474059",
+      "providerName": "JEPPS Care Ltd"
+    },
+    {
+      "providerId": "1-10155041248",
+      "providerName": "Liberty Health Clinics Ltd"
+    },
+    {
+      "providerId": "1-10155163472",
+      "providerName": "Logic Care Solutions Limited"
+    },
+    {
+      "providerId": "1-10155274635",
+      "providerName": "Ultra Care Clinic Limited"
+    },
+    {
+      "providerId": "1-1015630283",
+      "providerName": "Ark Specialist Healthcare LLP"
+    },
+    {
+      "providerId": "1-1015694473",
+      "providerName": "Magna Cura Limited"
+    },
+    {
+      "providerId": "1-10158513820",
+      "providerName": "Utmostcare Limited"
+    },
+    {
+      "providerId": "1-10159232543",
+      "providerName": "Carepable Health Care Agency Ltd"
+    },
+    {
+      "providerId": "1-10159254965",
+      "providerName": "Hayward Community Care Limited"
+    },
+    {
+      "providerId": "1-10159777247",
+      "providerName": "Glassmoon Services Limited"
+    },
+    {
+      "providerId": "1-10159869576",
+      "providerName": "Penny Haysom Case Management Ltd"
+    },
+    {
+      "providerId": "1-10159875616",
+      "providerName": "Vein Solutions Ltd"
+    },
+    {
+      "providerId": "1-10160045546",
+      "providerName": "Bright Global Health Care Services Limited"
+    },
+    {
+      "providerId": "1-10160063479",
+      "providerName": "Network Radiology Reporting Limited"
+    },
+    {
+      "providerId": "1-10160077811",
+      "providerName": "Odonti Limited"
+    },
+    {
+      "providerId": "1-101604132",
+      "providerName": "Alcohol & Drug Detox Limited"
+    },
+    {
+      "providerId": "1-101604141",
+      "providerName": "Dhillon Financial UK Limited"
+    },
+    {
+      "providerId": "1-101604150",
+      "providerName": "Salisbury Management Services Limited"
+    },
+    {
+      "providerId": "1-101604168",
+      "providerName": "Ravensworth Care Home Limited"
+    },
+    {
+      "providerId": "1-101604177",
+      "providerName": "Care Any Time Limited"
+    },
+    {
+      "providerId": "1-101604186",
+      "providerName": "B Gelfand"
+    },
+    {
+      "providerId": "1-101604195",
+      "providerName": "Lynden Hill Clinics Limited"
+    },
+    {
+      "providerId": "1-101606204",
+      "providerName": "Argyle Care Group Limited"
+    },
+    {
+      "providerId": "1-101606213",
+      "providerName": "The Laurels Nursing Home (Hastings) Limited"
+    },
+    {
+      "providerId": "1-101606222",
+      "providerName": "Amberwood Care Home Limited"
+    },
+    {
+      "providerId": "1-101606231",
+      "providerName": "Barons Park Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101606240",
+      "providerName": "Accomplish Group Support Limited"
+    },
+    {
+      "providerId": "1-101606248",
+      "providerName": "Belford Care Limited"
+    },
+    {
+      "providerId": "1-101606257",
+      "providerName": "Chatting Independently"
+    },
+    {
+      "providerId": "1-101606266",
+      "providerName": "The Star Nursing Home"
+    },
+    {
+      "providerId": "1-101606275",
+      "providerName": "Delrose House Limited"
+    },
+    {
+      "providerId": "1-101606284",
+      "providerName": "DGSM yourChoice"
+    },
+    {
+      "providerId": "1-101606293",
+      "providerName": "Edge View Homes Limited"
+    },
+    {
+      "providerId": "1-101606311",
+      "providerName": "Manor Care Home Limited"
+    },
+    {
+      "providerId": "1-101606320",
+      "providerName": "Flexible Support Options"
+    },
+    {
+      "providerId": "1-101606329",
+      "providerName": "Foley House Trust"
+    },
+    {
+      "providerId": "1-101606338",
+      "providerName": "One Housing Group Limited"
+    },
+    {
+      "providerId": "1-101606347",
+      "providerName": "Cantonfield Limited"
+    },
+    {
+      "providerId": "1-101606356",
+      "providerName": "Camelot Care (Plymouth) Limited"
+    },
+    {
+      "providerId": "1-101606365",
+      "providerName": "Hill House Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101606374",
+      "providerName": "Fairfield View Care Limited"
+    },
+    {
+      "providerId": "1-101606383",
+      "providerName": "Lister House Limited"
+    },
+    {
+      "providerId": "1-101606392",
+      "providerName": "Ashton Healthcare Limited"
+    },
+    {
+      "providerId": "1-101606401",
+      "providerName": "Northgate Healthcare Limited"
+    },
+    {
+      "providerId": "1-101606410",
+      "providerName": "V & L Corporation Ltd"
+    },
+    {
+      "providerId": "1-101606419",
+      "providerName": "Knightwood Care Limited"
+    },
+    {
+      "providerId": "1-101606428",
+      "providerName": "Canterbury Care Homes Limited"
+    },
+    {
+      "providerId": "1-101606446",
+      "providerName": "A M Care Home Limited"
+    },
+    {
+      "providerId": "1-101606455",
+      "providerName": "Care Provision Healthcare Limited"
+    },
+    {
+      "providerId": "1-101606464",
+      "providerName": "Richmond Homes and Lifestyle Trust"
+    },
+    {
+      "providerId": "1-101606473",
+      "providerName": "Brook Lane Rest Home Limited"
+    },
+    {
+      "providerId": "1-101606491",
+      "providerName": "Winash Limited"
+    },
+    {
+      "providerId": "1-101606500",
+      "providerName": "The Council of St Monica Trust"
+    },
+    {
+      "providerId": "1-101606509",
+      "providerName": "Tulip Mental Health Group"
+    },
+    {
+      "providerId": "1-101606518",
+      "providerName": "Palm Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101606527",
+      "providerName": "Adelphi Care Services Ltd"
+    },
+    {
+      "providerId": "1-101606536",
+      "providerName": "West House"
+    },
+    {
+      "providerId": "1-101606545",
+      "providerName": "Apex Care Homes Limited"
+    },
+    {
+      "providerId": "1-101606554",
+      "providerName": "Primrose Bank Ltd"
+    },
+    {
+      "providerId": "1-101606563",
+      "providerName": "The Trustees of the James Hirons Care Home"
+    },
+    {
+      "providerId": "1-101606572",
+      "providerName": "The Church Of England Pensions Board"
+    },
+    {
+      "providerId": "1-101606581",
+      "providerName": "Beechcare (Thornbury) Limited"
+    },
+    {
+      "providerId": "1-101606590",
+      "providerName": "St Vincent's Care Limited"
+    },
+    {
+      "providerId": "1-101606599",
+      "providerName": "Elmwood Residential Home Limited"
+    },
+    {
+      "providerId": "1-101606608",
+      "providerName": "Meadowbank Care Home Limited"
+    },
+    {
+      "providerId": "1-101606617",
+      "providerName": "Keys Accomplish FC Limited"
+    },
+    {
+      "providerId": "1-101606626",
+      "providerName": "Foxglove Care Limited"
+    },
+    {
+      "providerId": "1-101606635",
+      "providerName": "Haisthorpe House Care Limited"
+    },
+    {
+      "providerId": "1-101606644",
+      "providerName": "Boyack Enterprises Limited"
+    },
+    {
+      "providerId": "1-101606653",
+      "providerName": "Orion Care Services (Caburn) Limited"
+    },
+    {
+      "providerId": "1-101606662",
+      "providerName": "SKR Limited"
+    },
+    {
+      "providerId": "1-101606671",
+      "providerName": "Abbeyfield Weston-Super-Mare Society Limited(The)"
+    },
+    {
+      "providerId": "1-101606680",
+      "providerName": "Ryecroft Care Limited"
+    },
+    {
+      "providerId": "1-101606689",
+      "providerName": "Care Providers (UK) Limited"
+    },
+    {
+      "providerId": "1-101606698",
+      "providerName": "Farrington Care Homes Limited"
+    },
+    {
+      "providerId": "1-101607707",
+      "providerName": "Belle Vue Healthcare Limited"
+    },
+    {
+      "providerId": "1-101607716",
+      "providerName": "The Thomas More Project"
+    },
+    {
+      "providerId": "1-101607725",
+      "providerName": "Oakhaven Residential Care Home Limited"
+    },
+    {
+      "providerId": "1-101607734",
+      "providerName": "Airedale Nursing Home"
+    },
+    {
+      "providerId": "1-101607752",
+      "providerName": "Lyndhurst Limited"
+    },
+    {
+      "providerId": "1-101607761",
+      "providerName": "Kingly Care Partnership Limited"
+    },
+    {
+      "providerId": "1-101607770",
+      "providerName": "Break Charity"
+    },
+    {
+      "providerId": "1-101607779",
+      "providerName": "English Care Limited"
+    },
+    {
+      "providerId": "1-101607788",
+      "providerName": "Allenbrook Care Limited"
+    },
+    {
+      "providerId": "1-101607797",
+      "providerName": "Mayflower Care Homes Limited"
+    },
+    {
+      "providerId": "1-101607806",
+      "providerName": "Manor Lodge (Devon) Limited"
+    },
+    {
+      "providerId": "1-101607824",
+      "providerName": "Thornleigh Camphill Communities Ltd"
+    },
+    {
+      "providerId": "1-101607833",
+      "providerName": "Broadway Lodge Limited"
+    },
+    {
+      "providerId": "1-101607842",
+      "providerName": "Trustcare Management Limited"
+    },
+    {
+      "providerId": "1-101607851",
+      "providerName": "Greenside Health Care Limited"
+    },
+    {
+      "providerId": "1-101607869",
+      "providerName": "Regal Healthcare Properties Limited"
+    },
+    {
+      "providerId": "1-101607878",
+      "providerName": "Fircroft Services Limited"
+    },
+    {
+      "providerId": "1-101607887",
+      "providerName": "Hoar Cross Care Limited"
+    },
+    {
+      "providerId": "1-101607896",
+      "providerName": "Matrixcare"
+    },
+    {
+      "providerId": "1-101607905",
+      "providerName": "Hill House (Malmesbury) Ltd"
+    },
+    {
+      "providerId": "1-101607914",
+      "providerName": "Hengoed Park Limited"
+    },
+    {
+      "providerId": "1-101607932",
+      "providerName": "West Country Care Limited"
+    },
+    {
+      "providerId": "1-101607941",
+      "providerName": "Hyde Lea Nursing Homes Limited"
+    },
+    {
+      "providerId": "1-101607950",
+      "providerName": "Lower Green Limited"
+    },
+    {
+      "providerId": "1-101607959",
+      "providerName": "Nationwide Community Care Limited"
+    },
+    {
+      "providerId": "1-101607968",
+      "providerName": "Donnington House Care Home Limited"
+    },
+    {
+      "providerId": "1-101607977",
+      "providerName": "Hawksyard Priory Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101607986",
+      "providerName": "Keynsham Mencap Family Home"
+    },
+    {
+      "providerId": "1-101607995",
+      "providerName": "HCS (Enfield) Limited"
+    },
+    {
+      "providerId": "1-101608004",
+      "providerName": "Micado Homes Limited"
+    },
+    {
+      "providerId": "1-101608013",
+      "providerName": "Muir Group Housing Association Limited"
+    },
+    {
+      "providerId": "1-101608022",
+      "providerName": "Bonehill Limited"
+    },
+    {
+      "providerId": "1-101608031",
+      "providerName": "Magicare Limited"
+    },
+    {
+      "providerId": "1-101608040",
+      "providerName": "Platinum Care Services Limited"
+    },
+    {
+      "providerId": "1-101608049",
+      "providerName": "Primecare Homes Britannia Limited"
+    },
+    {
+      "providerId": "1-101608067",
+      "providerName": "Amberley Lodge Care Home Limited"
+    },
+    {
+      "providerId": "1-101608076",
+      "providerName": "The Magdalen And Lasher Charity"
+    },
+    {
+      "providerId": "1-101608085",
+      "providerName": "Alphagrange Limited"
+    },
+    {
+      "providerId": "1-101608094",
+      "providerName": "Alpha Care (Caterham) Limited"
+    },
+    {
+      "providerId": "1-101608103",
+      "providerName": "Residential Care Providers Limited"
+    },
+    {
+      "providerId": "1-101608112",
+      "providerName": "Acorn Lodge Limited"
+    },
+    {
+      "providerId": "1-101608121",
+      "providerName": "North London Care Services Limited"
+    },
+    {
+      "providerId": "1-101608130",
+      "providerName": "Knotty Ash Residential Care Home Ltd"
+    },
+    {
+      "providerId": "1-101608139",
+      "providerName": "Florence Lodge Healthcare Limited"
+    },
+    {
+      "providerId": "1-101608148",
+      "providerName": "Hillcrest House Limited"
+    },
+    {
+      "providerId": "1-101608157",
+      "providerName": "Cliffe Vale Residential Home Limited"
+    },
+    {
+      "providerId": "1-101608166",
+      "providerName": "Acorn Lodge (Bournemouth) Limited"
+    },
+    {
+      "providerId": "1-101608175",
+      "providerName": "Sandco 1 Limited"
+    },
+    {
+      "providerId": "1-101608184",
+      "providerName": "Brightwell Care Limited"
+    },
+    {
+      "providerId": "1-101608193",
+      "providerName": "April Rai Limited"
+    },
+    {
+      "providerId": "1-101608202",
+      "providerName": "Heathfield Residential Home Limited"
+    },
+    {
+      "providerId": "1-101608211",
+      "providerName": "Positive Community Care Limited"
+    },
+    {
+      "providerId": "1-101608220",
+      "providerName": "House Martins Care Limited"
+    },
+    {
+      "providerId": "1-101608229",
+      "providerName": "Larkcastle Limited"
+    },
+    {
+      "providerId": "1-101608238",
+      "providerName": "Far Fillimore Care Homes Ltd"
+    },
+    {
+      "providerId": "1-101608247",
+      "providerName": "St. Nectans Residential Care Home Limited"
+    },
+    {
+      "providerId": "1-101608256",
+      "providerName": "W & S Red Rose Healthcare Limited"
+    },
+    {
+      "providerId": "1-101608265",
+      "providerName": "Oxbridge Care Limited"
+    },
+    {
+      "providerId": "1-101608274",
+      "providerName": "Completelink Limited"
+    },
+    {
+      "providerId": "1-101608283",
+      "providerName": "Inverhome Limited"
+    },
+    {
+      "providerId": "1-101608292",
+      "providerName": "Newton Care Homes Limited"
+    },
+    {
+      "providerId": "1-101608301",
+      "providerName": "More-Care (Home Counties) Limited"
+    },
+    {
+      "providerId": "1-101608310",
+      "providerName": "Joy Care Home Services Limited"
+    },
+    {
+      "providerId": "1-101608319",
+      "providerName": "Castel Froma Neuro Care Limited"
+    },
+    {
+      "providerId": "1-101608328",
+      "providerName": "Century Healthcare Limited"
+    },
+    {
+      "providerId": "1-101608337",
+      "providerName": "Chy Morvah Limited"
+    },
+    {
+      "providerId": "1-101608346",
+      "providerName": "Chelston Park Nursing And Residential Home Limited"
+    },
+    {
+      "providerId": "1-101608355",
+      "providerName": "Snow Peak Limited"
+    },
+    {
+      "providerId": "1-101608364",
+      "providerName": "Danmor Lodge Ltd"
+    },
+    {
+      "providerId": "1-101608373",
+      "providerName": "Somerleigh Court Ltd"
+    },
+    {
+      "providerId": "1-101608382",
+      "providerName": "Royal Alfred Seafarers' Society"
+    },
+    {
+      "providerId": "1-101608391",
+      "providerName": "Burnham Lodge Limited"
+    },
+    {
+      "providerId": "1-101608400",
+      "providerName": "St George's (Wigan) Limited"
+    },
+    {
+      "providerId": "1-101608409",
+      "providerName": "Bramcote Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101608418",
+      "providerName": "Mr & Mrs A P Hawkins"
+    },
+    {
+      "providerId": "1-101608427",
+      "providerName": "Heathdale Care Limited"
+    },
+    {
+      "providerId": "1-101608436",
+      "providerName": "Brownhill Care Limited"
+    },
+    {
+      "providerId": "1-101608445",
+      "providerName": "Severn Care Limited"
+    },
+    {
+      "providerId": "1-101608454",
+      "providerName": "Rosewood & Brook House Ltd"
+    },
+    {
+      "providerId": "1-101608463",
+      "providerName": "H.W.C.G.S. Care Limited"
+    },
+    {
+      "providerId": "1-101608472",
+      "providerName": "Askham Village Community Limited"
+    },
+    {
+      "providerId": "1-101608481",
+      "providerName": "Gloucestershire County Council"
+    },
+    {
+      "providerId": "1-101608499",
+      "providerName": "Spindrift Care Home Limited"
+    },
+    {
+      "providerId": "1-101608517",
+      "providerName": "Your Lifestyle LLP"
+    },
+    {
+      "providerId": "1-101608526",
+      "providerName": "Capital Investments And Developments Limited"
+    },
+    {
+      "providerId": "1-101608535",
+      "providerName": "Autonomy Life Ltd"
+    },
+    {
+      "providerId": "1-101608544",
+      "providerName": "Bleak House Limited"
+    },
+    {
+      "providerId": "1-101608553",
+      "providerName": "Sunnycroft Residential Care Home Ltd"
+    },
+    {
+      "providerId": "1-101608562",
+      "providerName": "Kingsway (Clayton House)"
+    },
+    {
+      "providerId": "1-101608571",
+      "providerName": "Star Care UK Ltd"
+    },
+    {
+      "providerId": "1-101608580",
+      "providerName": "Rushcliffe Care Limited"
+    },
+    {
+      "providerId": "1-101608589",
+      "providerName": "Sutton And Cheam Elderly People's Housing Association"
+    },
+    {
+      "providerId": "1-101608598",
+      "providerName": "Lymewood Care Limited"
+    },
+    {
+      "providerId": "1-101608607",
+      "providerName": "AMA Generic Limited"
+    },
+    {
+      "providerId": "1-101608616",
+      "providerName": "L M Kendon Settlement"
+    },
+    {
+      "providerId": "1-101608625",
+      "providerName": "Woodley Age Concern"
+    },
+    {
+      "providerId": "1-101608634",
+      "providerName": "Mrs Imelda Moore"
+    },
+    {
+      "providerId": "1-101608643",
+      "providerName": "North London Care (Havering) Ltd"
+    },
+    {
+      "providerId": "1-101608652",
+      "providerName": "Ashley Gardens(Uk) Ltd"
+    },
+    {
+      "providerId": "1-101608661",
+      "providerName": "Trees Park (East Ham) Limited"
+    },
+    {
+      "providerId": "1-101608670",
+      "providerName": "Newgrange of Cheshunt Limited"
+    },
+    {
+      "providerId": "1-101608688",
+      "providerName": "London Borough of Ealing"
+    },
+    {
+      "providerId": "1-101608697",
+      "providerName": "Autism Anglia"
+    },
+    {
+      "providerId": "1-101608706",
+      "providerName": "Living Developments Limited"
+    },
+    {
+      "providerId": "1-101608715",
+      "providerName": "Watford House Residential Home Ltd"
+    },
+    {
+      "providerId": "1-101608724",
+      "providerName": "Desmond House Limited"
+    },
+    {
+      "providerId": "1-101608733",
+      "providerName": "Brighstone Care Limited"
+    },
+    {
+      "providerId": "1-101608742",
+      "providerName": "Wenham Holt Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101608751",
+      "providerName": "Alston Lodge Residential Home Limited"
+    },
+    {
+      "providerId": "1-101608760",
+      "providerName": "Chandra Wimal De Silva"
+    },
+    {
+      "providerId": "1-101608769",
+      "providerName": "Idelo Limited"
+    },
+    {
+      "providerId": "1-101608778",
+      "providerName": "Mayfield Fellowship"
+    },
+    {
+      "providerId": "1-101608787",
+      "providerName": "Ochre Care Limited"
+    },
+    {
+      "providerId": "1-101608796",
+      "providerName": "Lily Care Ltd"
+    },
+    {
+      "providerId": "1-101608805",
+      "providerName": "Christian Residential Homes For The Elderly Limited"
+    },
+    {
+      "providerId": "1-101608814",
+      "providerName": "Autism East Midlands"
+    },
+    {
+      "providerId": "1-101608823",
+      "providerName": "Gorseway Care Limited"
+    },
+    {
+      "providerId": "1-101608832",
+      "providerName": "Three Roses Homes Limited"
+    },
+    {
+      "providerId": "1-101608841",
+      "providerName": "Unityone Ltd"
+    },
+    {
+      "providerId": "1-101608850",
+      "providerName": "Haven Green Housing Association Limited"
+    },
+    {
+      "providerId": "1-101608859",
+      "providerName": "Visitation of Our Lady"
+    },
+    {
+      "providerId": "1-101608868",
+      "providerName": "Downhurst Residential Home Limited"
+    },
+    {
+      "providerId": "1-101608877",
+      "providerName": "Westview Limited"
+    },
+    {
+      "providerId": "1-101608886",
+      "providerName": "Park Care Limited"
+    },
+    {
+      "providerId": "1-101608895",
+      "providerName": "Donisthorpe Hall"
+    },
+    {
+      "providerId": "1-101608904",
+      "providerName": "Leeds Jewish Welfare Board"
+    },
+    {
+      "providerId": "1-101608913",
+      "providerName": "Croftacres Limited"
+    },
+    {
+      "providerId": "1-101608922",
+      "providerName": "Totalwest Limited"
+    },
+    {
+      "providerId": "1-101608931",
+      "providerName": "Pexton Grange Limited"
+    },
+    {
+      "providerId": "1-101608940",
+      "providerName": "Hollydene Care Limited"
+    },
+    {
+      "providerId": "1-101608949",
+      "providerName": "Westdale Quaker Housing Association Limited"
+    },
+    {
+      "providerId": "1-101608958",
+      "providerName": "The Trustees of the Lucy Derbyshire Annuity Fund"
+    },
+    {
+      "providerId": "1-101608967",
+      "providerName": "Durham Care Homes Limited"
+    },
+    {
+      "providerId": "1-101608976",
+      "providerName": "A.N.I. Health Care Services Limited"
+    },
+    {
+      "providerId": "1-101608985",
+      "providerName": "A L A Care Limited"
+    },
+    {
+      "providerId": "1-101608994",
+      "providerName": "Gemleigh Limited"
+    },
+    {
+      "providerId": "1-101609003",
+      "providerName": "Manor House Christian Trust"
+    },
+    {
+      "providerId": "1-101609012",
+      "providerName": "The Croll Group"
+    },
+    {
+      "providerId": "1-101609021",
+      "providerName": "Care South"
+    },
+    {
+      "providerId": "1-101609030",
+      "providerName": "Acorn Luxury Care Limited"
+    },
+    {
+      "providerId": "1-101609039",
+      "providerName": "Abbeywood (Tottington) Limited"
+    },
+    {
+      "providerId": "1-101609048",
+      "providerName": "Morris Feinmann Homes Trust"
+    },
+    {
+      "providerId": "1-101609057",
+      "providerName": "Medincharm Limited"
+    },
+    {
+      "providerId": "1-101609066",
+      "providerName": "The Holmes Care Limited"
+    },
+    {
+      "providerId": "1-101609075",
+      "providerName": "Broadening Choices For Older People"
+    },
+    {
+      "providerId": "1-101609084",
+      "providerName": "Moundsley Hall Limited"
+    },
+    {
+      "providerId": "1-101609093",
+      "providerName": "Cole Valley Care Limited"
+    },
+    {
+      "providerId": "1-101609102",
+      "providerName": "Bath MIND"
+    },
+    {
+      "providerId": "1-101609111",
+      "providerName": "Pilgrims’ Friend Society (RP)"
+    },
+    {
+      "providerId": "1-101609120",
+      "providerName": "Court Healthcare Limited"
+    },
+    {
+      "providerId": "1-101609129",
+      "providerName": "Cambridge Nursing Home Ltd"
+    },
+    {
+      "providerId": "1-101609138",
+      "providerName": "Salters Hill Charity Limited"
+    },
+    {
+      "providerId": "1-101609147",
+      "providerName": "Fordent Properties Limited"
+    },
+    {
+      "providerId": "1-101609156",
+      "providerName": "Bright Start Care Home Limited"
+    },
+    {
+      "providerId": "1-101609165",
+      "providerName": "Manor Homes (Poulton) Limited"
+    },
+    {
+      "providerId": "1-101609174",
+      "providerName": "Anna Victoria Nursing Home"
+    },
+    {
+      "providerId": "1-101609183",
+      "providerName": "Liaise (South) Limited"
+    },
+    {
+      "providerId": "1-101609192",
+      "providerName": "East Yorkshire Housing Association Limited"
+    },
+    {
+      "providerId": "1-101609201",
+      "providerName": "Community Projects North Devon"
+    },
+    {
+      "providerId": "1-101609210",
+      "providerName": "Horton Housing Association"
+    },
+    {
+      "providerId": "1-101609219",
+      "providerName": "Cleeve Rest Limited"
+    },
+    {
+      "providerId": "1-101609228",
+      "providerName": "Stoneleigh Residential Care Home Limited"
+    },
+    {
+      "providerId": "1-101609237",
+      "providerName": "Compass Residential Homes Ltd"
+    },
+    {
+      "providerId": "1-101609246",
+      "providerName": "Hamilton House Medical Limited"
+    },
+    {
+      "providerId": "1-101609255",
+      "providerName": "Ferndale Healthcare Limited"
+    },
+    {
+      "providerId": "1-101609264",
+      "providerName": "Green Pastures"
+    },
+    {
+      "providerId": "1-101609273",
+      "providerName": "Community World Limited"
+    },
+    {
+      "providerId": "1-101609300",
+      "providerName": "Danemere"
+    },
+    {
+      "providerId": "1-101609309",
+      "providerName": "Objectquest Limited"
+    },
+    {
+      "providerId": "1-101609318",
+      "providerName": "Middleton Hall Limited"
+    },
+    {
+      "providerId": "1-101609327",
+      "providerName": "Burgh House Residential Care Home Limited"
+    },
+    {
+      "providerId": "1-101609336",
+      "providerName": "College Of St. Barnabas(The)"
+    },
+    {
+      "providerId": "1-101609345",
+      "providerName": "Oakhurst Court Limited"
+    },
+    {
+      "providerId": "1-101609354",
+      "providerName": "The Red House (Ashtead) Limited"
+    },
+    {
+      "providerId": "1-101609363",
+      "providerName": "Kal - Tan Limited"
+    },
+    {
+      "providerId": "1-101609372",
+      "providerName": "Combat Stress"
+    },
+    {
+      "providerId": "1-101609381",
+      "providerName": "West Lodge Care Homes Limited"
+    },
+    {
+      "providerId": "1-101609390",
+      "providerName": "Broomgrove Trust(The)"
+    },
+    {
+      "providerId": "1-101609399",
+      "providerName": "Ashtonleigh Nursing Home Ltd"
+    },
+    {
+      "providerId": "1-101609408",
+      "providerName": "Applewalk Homes Limited"
+    },
+    {
+      "providerId": "1-101609417",
+      "providerName": "Gensing Rest Home Limited"
+    },
+    {
+      "providerId": "1-101609426",
+      "providerName": "Pleasantly Limited"
+    },
+    {
+      "providerId": "1-101609435",
+      "providerName": "H & H Partners"
+    },
+    {
+      "providerId": "1-101609444",
+      "providerName": "Martha Trust Hereford Limited"
+    },
+    {
+      "providerId": "1-101609453",
+      "providerName": "Aspire Living Limited"
+    },
+    {
+      "providerId": "1-101609462",
+      "providerName": "Chauncy Housing Association Limited"
+    },
+    {
+      "providerId": "1-101609471",
+      "providerName": "Cathedral Care (Gloucester) Limited"
+    },
+    {
+      "providerId": "1-101609489",
+      "providerName": "Stroud & District Homes Foundation Limited"
+    },
+    {
+      "providerId": "1-101609498",
+      "providerName": "Sutton in the Elms Care Limited"
+    },
+    {
+      "providerId": "1-101609507",
+      "providerName": "Molescroft Nursing Home (Holdings) Limited"
+    },
+    {
+      "providerId": "1-101609516",
+      "providerName": "Keldgate Manor Estates Limited"
+    },
+    {
+      "providerId": "1-101609525",
+      "providerName": "Eyhurst Court Limited"
+    },
+    {
+      "providerId": "1-101609534",
+      "providerName": "C. & P. Limited"
+    },
+    {
+      "providerId": "1-101609543",
+      "providerName": "The Police Rehabilitation Centre"
+    },
+    {
+      "providerId": "1-101609552",
+      "providerName": "Glebe House (Charnwood) Limited"
+    },
+    {
+      "providerId": "1-101609561",
+      "providerName": "Westfield House (Care) Ltd"
+    },
+    {
+      "providerId": "1-101609570",
+      "providerName": "Catholic Blind Institute"
+    },
+    {
+      "providerId": "1-101609579",
+      "providerName": "Fairfield Healthcare Limited"
+    },
+    {
+      "providerId": "1-101609588",
+      "providerName": "Supported Independence Limited"
+    },
+    {
+      "providerId": "1-101609597",
+      "providerName": "Prima Healthcare Limited"
+    },
+    {
+      "providerId": "1-101609606",
+      "providerName": "Delphside Limited"
+    },
+    {
+      "providerId": "1-101609615",
+      "providerName": "St Helens And Knowsley Caring Association"
+    },
+    {
+      "providerId": "1-101609624",
+      "providerName": "Mother Redcaps Care Home Limited"
+    },
+    {
+      "providerId": "1-101609633",
+      "providerName": "Hoylake Cottage"
+    },
+    {
+      "providerId": "1-101609642",
+      "providerName": "Bayview Nursing And Residential Care Home Limited"
+    },
+    {
+      "providerId": "1-101609651",
+      "providerName": "Belvidere Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101609660",
+      "providerName": "Hillcroft Nursing Homes Limited"
+    },
+    {
+      "providerId": "1-101609669",
+      "providerName": "Avon Autistic Foundation Limited"
+    },
+    {
+      "providerId": "1-101609678",
+      "providerName": "Elm Lodge Nursing and Residential Home"
+    },
+    {
+      "providerId": "1-101609687",
+      "providerName": "Belmont Parkhill Limited"
+    },
+    {
+      "providerId": "1-101609696",
+      "providerName": "Moorlands Rehabilitation (Staffordshire) Limited"
+    },
+    {
+      "providerId": "1-101609705",
+      "providerName": "Balkerne Gardens Trust Limited"
+    },
+    {
+      "providerId": "1-101609714",
+      "providerName": "Bernash Residential Home Limited"
+    },
+    {
+      "providerId": "1-101609723",
+      "providerName": "Northamptonshire Association for the Blind"
+    },
+    {
+      "providerId": "1-101609732",
+      "providerName": "Charnley House Limited"
+    },
+    {
+      "providerId": "1-101609741",
+      "providerName": "Bowlacre Home"
+    },
+    {
+      "providerId": "1-101609750",
+      "providerName": "Rodney House (Weston) Limited"
+    },
+    {
+      "providerId": "1-101609759",
+      "providerName": "Davenport Manor Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101609768",
+      "providerName": "Casequest Limited"
+    },
+    {
+      "providerId": "1-101609777",
+      "providerName": "Mount Pleasant Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101609786",
+      "providerName": "Harwood House Limited"
+    },
+    {
+      "providerId": "1-101609795",
+      "providerName": "Berengrove Limited"
+    },
+    {
+      "providerId": "1-101609804",
+      "providerName": "Beaumond House Community Hospice"
+    },
+    {
+      "providerId": "1-101609813",
+      "providerName": "Ashmore Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101609822",
+      "providerName": "Stockton-on-Tees Borough Council"
+    },
+    {
+      "providerId": "1-101609831",
+      "providerName": "Rearsby Home Limited"
+    },
+    {
+      "providerId": "1-101609840",
+      "providerName": "Hewitt-Hill Limited"
+    },
+    {
+      "providerId": "1-101609849",
+      "providerName": "St Martins Residential Care Limited"
+    },
+    {
+      "providerId": "1-101609858",
+      "providerName": "Leighton House Retirement Home Limited"
+    },
+    {
+      "providerId": "1-101609876",
+      "providerName": "Oak Care Limited"
+    },
+    {
+      "providerId": "1-101609885",
+      "providerName": "Peacemills Limited"
+    },
+    {
+      "providerId": "1-101609894",
+      "providerName": "Dovestone Estates Limited"
+    },
+    {
+      "providerId": "1-101609903",
+      "providerName": "Pilkington Retirement Services Limited"
+    },
+    {
+      "providerId": "1-101609912",
+      "providerName": "West of England Friends Housing Society Limited"
+    },
+    {
+      "providerId": "1-101609939",
+      "providerName": "Crystal Hall Limited"
+    },
+    {
+      "providerId": "1-101609948",
+      "providerName": "Groundstyle Limited"
+    },
+    {
+      "providerId": "1-101609957",
+      "providerName": "Ellenbern Holdings Limited"
+    },
+    {
+      "providerId": "1-101609966",
+      "providerName": "Pinebird Ventures Limited"
+    },
+    {
+      "providerId": "1-101609975",
+      "providerName": "English Dominican Congregation Trust"
+    },
+    {
+      "providerId": "1-101609984",
+      "providerName": "Disability Action Yorkshire"
+    },
+    {
+      "providerId": "1-101609993",
+      "providerName": "South Devon Rural Housing Association Limited"
+    },
+    {
+      "providerId": "1-101610002",
+      "providerName": "The Lady Nuffield Home"
+    },
+    {
+      "providerId": "1-101610011",
+      "providerName": "Glebe Care Ltd"
+    },
+    {
+      "providerId": "1-101610020",
+      "providerName": "Newlyn Court Limited"
+    },
+    {
+      "providerId": "1-101610029",
+      "providerName": "Ley Community Drug Services"
+    },
+    {
+      "providerId": "1-101610038",
+      "providerName": "Essex Blind Charity"
+    },
+    {
+      "providerId": "1-101610047",
+      "providerName": "Littlehampton and Rustington Housing Society Limited"
+    },
+    {
+      "providerId": "1-101610056",
+      "providerName": "St. Andrew's Residential Care Home Limited"
+    },
+    {
+      "providerId": "1-101610074",
+      "providerName": "Boarbank Hall Convalescent Home"
+    },
+    {
+      "providerId": "1-101610083",
+      "providerName": "Gateshead Dispensary Nursing Home (Craigielea) Limited"
+    },
+    {
+      "providerId": "1-101610092",
+      "providerName": "Northumbria Care Limited"
+    },
+    {
+      "providerId": "1-101610101",
+      "providerName": "Mastercare Residential Home Association"
+    },
+    {
+      "providerId": "1-101610110",
+      "providerName": "Druglink Limited"
+    },
+    {
+      "providerId": "1-101610119",
+      "providerName": "Catalyst Choices: Housing With Care Ltd"
+    },
+    {
+      "providerId": "1-101610128",
+      "providerName": "Abbey Chase Residential and Nursing Homes Limited"
+    },
+    {
+      "providerId": "1-101610137",
+      "providerName": "The Lodge Rest Limited"
+    },
+    {
+      "providerId": "1-101610164",
+      "providerName": "Clinida Care Limited"
+    },
+    {
+      "providerId": "1-101610173",
+      "providerName": "The George Edward Smart Homes"
+    },
+    {
+      "providerId": "1-101610182",
+      "providerName": "Mitrecroft Limited"
+    },
+    {
+      "providerId": "1-101610191",
+      "providerName": "Gresham Care Limited"
+    },
+    {
+      "providerId": "1-101610200",
+      "providerName": "Whitmore Vale Housing Association Limited"
+    },
+    {
+      "providerId": "1-101610218",
+      "providerName": "The Cavendish House Trust"
+    },
+    {
+      "providerId": "1-101610227",
+      "providerName": "Abbeyfield North Downs Society Limited"
+    },
+    {
+      "providerId": "1-101610236",
+      "providerName": "Springdene Nursing and Care Homes Limited"
+    },
+    {
+      "providerId": "1-101610245",
+      "providerName": "Abbeyfield Wey Valley Society Limited The"
+    },
+    {
+      "providerId": "1-101610254",
+      "providerName": "Greydales Limited"
+    },
+    {
+      "providerId": "1-101610263",
+      "providerName": "Dorking Residential Care Homes Ltd"
+    },
+    {
+      "providerId": "1-101610272",
+      "providerName": "Banstead, Carshalton And District Housing Society"
+    },
+    {
+      "providerId": "1-101610281",
+      "providerName": "Royal Cambridge Home Trading Limited"
+    },
+    {
+      "providerId": "1-101610290",
+      "providerName": "National Centre for Young People with Epilepsy"
+    },
+    {
+      "providerId": "1-101610298",
+      "providerName": "Blind Veterans UK"
+    },
+    {
+      "providerId": "1-101610307",
+      "providerName": "P.C.M Housing Association Limited"
+    },
+    {
+      "providerId": "1-101610316",
+      "providerName": "Grace Manor Care Limited"
+    },
+    {
+      "providerId": "1-101610325",
+      "providerName": "Rolamgold Limited"
+    },
+    {
+      "providerId": "1-101610334",
+      "providerName": "Lambeth and Southwark Mencap"
+    },
+    {
+      "providerId": "1-101610343",
+      "providerName": "Centre 404"
+    },
+    {
+      "providerId": "1-101610352",
+      "providerName": "Kairos Community Trust"
+    },
+    {
+      "providerId": "1-101610361",
+      "providerName": "Association Of Ukrainians In Great Britain Limited(The)"
+    },
+    {
+      "providerId": "1-101610370",
+      "providerName": "Service To The Aged"
+    },
+    {
+      "providerId": "1-101610379",
+      "providerName": "Dr S Seyan and Mr J Kotecha"
+    },
+    {
+      "providerId": "1-101610388",
+      "providerName": "Baytrees Homes Limited"
+    },
+    {
+      "providerId": "1-101610397",
+      "providerName": "Palmgrange Limited"
+    },
+    {
+      "providerId": "1-101610406",
+      "providerName": "Topcare Limited"
+    },
+    {
+      "providerId": "1-101610415",
+      "providerName": "The Garwood Foundation"
+    },
+    {
+      "providerId": "1-101610424",
+      "providerName": "The Lodge Trust"
+    },
+    {
+      "providerId": "1-101610433",
+      "providerName": "Kingfisher Carehome Limited"
+    },
+    {
+      "providerId": "1-101610442",
+      "providerName": "The Kingsdowne Society"
+    },
+    {
+      "providerId": "1-101610451",
+      "providerName": "The Dr French Memorial Home Limited"
+    },
+    {
+      "providerId": "1-101610460",
+      "providerName": "Eleanor Palmer Trust"
+    },
+    {
+      "providerId": "1-101610469",
+      "providerName": "Ash Court Community Limited"
+    },
+    {
+      "providerId": "1-101610487",
+      "providerName": "Hayes Cottage Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101610496",
+      "providerName": "The George Brooker Care Society Limited"
+    },
+    {
+      "providerId": "1-101610505",
+      "providerName": "Enmore Lodge Limited"
+    },
+    {
+      "providerId": "1-101610514",
+      "providerName": "South East London Baptist Homes"
+    },
+    {
+      "providerId": "1-101610523",
+      "providerName": "Mount Carmel Hostel for Recovering Alcoholics Limited"
+    },
+    {
+      "providerId": "1-101610541",
+      "providerName": "Religious of the Assumption"
+    },
+    {
+      "providerId": "1-101610550",
+      "providerName": "St David's Home For Disabled Soldiers, Sailors and Airmen"
+    },
+    {
+      "providerId": "1-101610559",
+      "providerName": "Bothwells Ltd"
+    },
+    {
+      "providerId": "1-101610568",
+      "providerName": "Cozee Care Homes Limited"
+    },
+    {
+      "providerId": "1-101610577",
+      "providerName": "Kolbe House Society"
+    },
+    {
+      "providerId": "1-101610586",
+      "providerName": "Frannan International Limited"
+    },
+    {
+      "providerId": "1-101610595",
+      "providerName": "Finbond Limited"
+    },
+    {
+      "providerId": "1-101610604",
+      "providerName": "Edgbaston Healthcare Limited"
+    },
+    {
+      "providerId": "1-101610613",
+      "providerName": "Life Path Trust Limited"
+    },
+    {
+      "providerId": "1-101610622",
+      "providerName": "People in Action"
+    },
+    {
+      "providerId": "1-101610631",
+      "providerName": "Alphonsus Services Limited"
+    },
+    {
+      "providerId": "1-101610640",
+      "providerName": "Ulysses Care Limited"
+    },
+    {
+      "providerId": "1-101610658",
+      "providerName": "Queen Alexandra College"
+    },
+    {
+      "providerId": "1-101610667",
+      "providerName": "Connect Therapeutic Community Limited"
+    },
+    {
+      "providerId": "1-101610676",
+      "providerName": "Bryony House Limited"
+    },
+    {
+      "providerId": "1-101610685",
+      "providerName": "Bournville Village Trust"
+    },
+    {
+      "providerId": "1-101610694",
+      "providerName": "Focus Birmingham"
+    },
+    {
+      "providerId": "1-101610703",
+      "providerName": "Kelso Care Consortium Limited"
+    },
+    {
+      "providerId": "1-101610712",
+      "providerName": "Birmingham Multi-Care Support Services Ltd"
+    },
+    {
+      "providerId": "1-101610721",
+      "providerName": "Birmingham Institute for the Deaf"
+    },
+    {
+      "providerId": "1-101610730",
+      "providerName": "Herefordshire Old People's Housing Society Limited"
+    },
+    {
+      "providerId": "1-101610739",
+      "providerName": "Flintvale Limited"
+    },
+    {
+      "providerId": "1-101610748",
+      "providerName": "Cornelia Connelly Trustees Incorporated"
+    },
+    {
+      "providerId": "1-101610757",
+      "providerName": "Roche Healthcare Limited"
+    },
+    {
+      "providerId": "1-101610766",
+      "providerName": "Multiple Sclerosis Society"
+    },
+    {
+      "providerId": "1-101610775",
+      "providerName": "Stroud Court Community Trust Limited"
+    },
+    {
+      "providerId": "1-101610784",
+      "providerName": "Mannacom Limited"
+    },
+    {
+      "providerId": "1-101610793",
+      "providerName": "Prudential Care Home Limited"
+    },
+    {
+      "providerId": "1-101610802",
+      "providerName": "Albany Care Limited"
+    },
+    {
+      "providerId": "1-101610811",
+      "providerName": "Icon Healthcare (UK) Limited"
+    },
+    {
+      "providerId": "1-101610820",
+      "providerName": "Ilford Homes Limited"
+    },
+    {
+      "providerId": "1-101610829",
+      "providerName": "Ashcroft House Care Services Limited"
+    },
+    {
+      "providerId": "1-101610838",
+      "providerName": "Harmony Care Homes (2003) Limited"
+    },
+    {
+      "providerId": "1-101610847",
+      "providerName": "Ingleby Care Limited"
+    },
+    {
+      "providerId": "1-101610856",
+      "providerName": "Ellershaw House Limited"
+    },
+    {
+      "providerId": "1-101610865",
+      "providerName": "Oakleigh Residential Home Limited"
+    },
+    {
+      "providerId": "1-101610874",
+      "providerName": "Hollyberry Care Limited"
+    },
+    {
+      "providerId": "1-101610883",
+      "providerName": "Access for Living"
+    },
+    {
+      "providerId": "1-101610892",
+      "providerName": "Heathlands Care Home (Chingford) Ltd"
+    },
+    {
+      "providerId": "1-101610901",
+      "providerName": "Firtree Associates Limited"
+    },
+    {
+      "providerId": "1-101610910",
+      "providerName": "C L H Care Homes Limited"
+    },
+    {
+      "providerId": "1-101610919",
+      "providerName": "Alba Rose Partnership"
+    },
+    {
+      "providerId": "1-101610928",
+      "providerName": "Vaghjiani Limited"
+    },
+    {
+      "providerId": "1-101610937",
+      "providerName": "Mental Health Matters"
+    },
+    {
+      "providerId": "1-101610946",
+      "providerName": "Baselink Care Limited"
+    },
+    {
+      "providerId": "1-101610955",
+      "providerName": "Clarencare Limited"
+    },
+    {
+      "providerId": "1-101610964",
+      "providerName": "Whickham Villa LLP"
+    },
+    {
+      "providerId": "1-101610973",
+      "providerName": "Precious Healthcare Ltd"
+    },
+    {
+      "providerId": "1-101610982",
+      "providerName": "Lilacs Care Ltd"
+    },
+    {
+      "providerId": "1-101610991",
+      "providerName": "24-7 Care Ltd"
+    },
+    {
+      "providerId": "1-101611009",
+      "providerName": "Amber Care Limited"
+    },
+    {
+      "providerId": "1-101611018",
+      "providerName": "Langston Care Limited"
+    },
+    {
+      "providerId": "1-101611027",
+      "providerName": "Franciscan Missionary Sisters"
+    },
+    {
+      "providerId": "1-101611036",
+      "providerName": "Emerald Care Services Limited"
+    },
+    {
+      "providerId": "1-101611045",
+      "providerName": "Wells House Care Limited"
+    },
+    {
+      "providerId": "1-101611063",
+      "providerName": "Walton Lodge Limited"
+    },
+    {
+      "providerId": "1-101611072",
+      "providerName": "Averesidential Care Ltd"
+    },
+    {
+      "providerId": "1-101611081",
+      "providerName": "Hurstcare Limited"
+    },
+    {
+      "providerId": "1-101611090",
+      "providerName": "Ability Associates Limited"
+    },
+    {
+      "providerId": "1-101611099",
+      "providerName": "Tudor Care Limited"
+    },
+    {
+      "providerId": "1-101611108",
+      "providerName": "Finecare Homes (Stevenage) Limited"
+    },
+    {
+      "providerId": "1-101611117",
+      "providerName": "Hinstock Manor Residential Home Limited"
+    },
+    {
+      "providerId": "1-101611126",
+      "providerName": "J.E.M. Care Limited"
+    },
+    {
+      "providerId": "1-101611135",
+      "providerName": "Living Life (UK) Limited"
+    },
+    {
+      "providerId": "1-101611144",
+      "providerName": "Ganymede Care Limited"
+    },
+    {
+      "providerId": "1-101611153",
+      "providerName": "Avonlodge Limited"
+    },
+    {
+      "providerId": "1-101611162",
+      "providerName": "Abronah Care Limited"
+    },
+    {
+      "providerId": "1-101611171",
+      "providerName": "Lyndale Care Limited"
+    },
+    {
+      "providerId": "1-101611180",
+      "providerName": "Longhurst & Havelok Homes Limited"
+    },
+    {
+      "providerId": "1-101611189",
+      "providerName": "Windmill Care Limited"
+    },
+    {
+      "providerId": "1-101611198",
+      "providerName": "Continuum Care And Education Group Limited"
+    },
+    {
+      "providerId": "1-101611207",
+      "providerName": "Safeharbour West Midlands Limited"
+    },
+    {
+      "providerId": "1-101611225",
+      "providerName": "Oakview Care (Berkshire) Limited"
+    },
+    {
+      "providerId": "1-101611234",
+      "providerName": "Crossbind Limited"
+    },
+    {
+      "providerId": "1-101611243",
+      "providerName": "Southwinds Limited"
+    },
+    {
+      "providerId": "1-101611252",
+      "providerName": "Greentree Enterprises Limited"
+    },
+    {
+      "providerId": "1-101611261",
+      "providerName": "Helpcare Limited"
+    },
+    {
+      "providerId": "1-101611270",
+      "providerName": "Clovely Care Limited"
+    },
+    {
+      "providerId": "1-101611279",
+      "providerName": "Brighton and Hove City Council"
+    },
+    {
+      "providerId": "1-101611288",
+      "providerName": "Guiding Principles Milligan Limited"
+    },
+    {
+      "providerId": "1-101611297",
+      "providerName": "Rosecare (Brookholme) LLP"
+    },
+    {
+      "providerId": "1-101611306",
+      "providerName": "First Step Limited"
+    },
+    {
+      "providerId": "1-101611315",
+      "providerName": "East Cleveland M.S. Home"
+    },
+    {
+      "providerId": "1-101611324",
+      "providerName": "Greta Cottage Limited"
+    },
+    {
+      "providerId": "1-101611333",
+      "providerName": "Independent Care Initiatives"
+    },
+    {
+      "providerId": "1-101611342",
+      "providerName": "Cleveland Alzheimer's Residential Centre Limited"
+    },
+    {
+      "providerId": "1-101611351",
+      "providerName": "Avenue Community Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101611360",
+      "providerName": "Teesside Healthcare Limited"
+    },
+    {
+      "providerId": "1-101611369",
+      "providerName": "Finchworth Limited"
+    },
+    {
+      "providerId": "1-101611378",
+      "providerName": "Oaklea Nursing Home Ltd"
+    },
+    {
+      "providerId": "1-101611387",
+      "providerName": "Ashfield Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101611396",
+      "providerName": "New Prospects Association Limited"
+    },
+    {
+      "providerId": "1-101611405",
+      "providerName": "Abbeyfield Northumbria"
+    },
+    {
+      "providerId": "1-101611414",
+      "providerName": "The St. Mary Magdalene And Holy Jesus Trustee Limited"
+    },
+    {
+      "providerId": "1-101611423",
+      "providerName": "Bridge Care Residential Limited"
+    },
+    {
+      "providerId": "1-101611432",
+      "providerName": "Blyth Star Enterprises Limited"
+    },
+    {
+      "providerId": "1-101611441",
+      "providerName": "Abbeyfield North Northumberland Extra Care Society Limited (The)"
+    },
+    {
+      "providerId": "1-101611450",
+      "providerName": "The Charlotte Straker Project"
+    },
+    {
+      "providerId": "1-101611459",
+      "providerName": "Northumbria Calvert Trust"
+    },
+    {
+      "providerId": "1-101611468",
+      "providerName": "Williams & Spenceley Limited"
+    },
+    {
+      "providerId": "1-101611477",
+      "providerName": "Hestoncourt Limited"
+    },
+    {
+      "providerId": "1-101611495",
+      "providerName": "Holderness House Trust"
+    },
+    {
+      "providerId": "1-101611504",
+      "providerName": "Hull Jewish Community Care"
+    },
+    {
+      "providerId": "1-101611522",
+      "providerName": "Private Medicare Limited"
+    },
+    {
+      "providerId": "1-101611531",
+      "providerName": "The Mayfield Trust"
+    },
+    {
+      "providerId": "1-101611540",
+      "providerName": "Sisters of St Joseph of Cluny"
+    },
+    {
+      "providerId": "1-101611549",
+      "providerName": "Ghyll Royd Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101611558",
+      "providerName": "B & C Holt Ltd"
+    },
+    {
+      "providerId": "1-101611567",
+      "providerName": "Leeds Autism Services"
+    },
+    {
+      "providerId": "1-101611585",
+      "providerName": "Ferndale Residential Home Limited"
+    },
+    {
+      "providerId": "1-101611594",
+      "providerName": "Jencare Homes Limited"
+    },
+    {
+      "providerId": "1-101611603",
+      "providerName": "Garforth Residential Homes Limited"
+    },
+    {
+      "providerId": "1-101611612",
+      "providerName": "S K Care Homes Ltd"
+    },
+    {
+      "providerId": "1-101611621",
+      "providerName": "Conifer Lodge Limited"
+    },
+    {
+      "providerId": "1-101611630",
+      "providerName": "Gables Care Home (Market Harborough) Limited"
+    },
+    {
+      "providerId": "1-101611639",
+      "providerName": "Firstsmile Limited"
+    },
+    {
+      "providerId": "1-101611648",
+      "providerName": "Egerton Lodge Limited"
+    },
+    {
+      "providerId": "1-101611657",
+      "providerName": "Astor Hall Limited"
+    },
+    {
+      "providerId": "1-101611666",
+      "providerName": "Springbank House Limited"
+    },
+    {
+      "providerId": "1-101611675",
+      "providerName": "The John Thornhill Memorial Trust"
+    },
+    {
+      "providerId": "1-101611684",
+      "providerName": "Willover Property Limited"
+    },
+    {
+      "providerId": "1-101611693",
+      "providerName": "Excelsior Health Care Limited"
+    },
+    {
+      "providerId": "1-101611702",
+      "providerName": "Golden Key Homes Limited"
+    },
+    {
+      "providerId": "1-101611711",
+      "providerName": "Brookfields P.N.H. Limited"
+    },
+    {
+      "providerId": "1-101611720",
+      "providerName": "Diginew Limited"
+    },
+    {
+      "providerId": "1-101611729",
+      "providerName": "Trustees of Seely Hirst House"
+    },
+    {
+      "providerId": "1-101611738",
+      "providerName": "Grantham and District Mencap Limited"
+    },
+    {
+      "providerId": "1-101611747",
+      "providerName": "At Home in the Community Limited"
+    },
+    {
+      "providerId": "1-101611756",
+      "providerName": "Howson Care Centre Limited"
+    },
+    {
+      "providerId": "1-101611765",
+      "providerName": "Barnsdale Bros. Limited"
+    },
+    {
+      "providerId": "1-101611774",
+      "providerName": "Holbeach & East Elloe Hospital Trust"
+    },
+    {
+      "providerId": "1-101611783",
+      "providerName": "Allington Healthcare Limited"
+    },
+    {
+      "providerId": "1-101611792",
+      "providerName": "Abbey Village Limited"
+    },
+    {
+      "providerId": "1-101611801",
+      "providerName": "Darwin House Limited"
+    },
+    {
+      "providerId": "1-101611810",
+      "providerName": "Guinness Northern Counties Limited"
+    },
+    {
+      "providerId": "1-101611819",
+      "providerName": "Silver Healthcare Limited"
+    },
+    {
+      "providerId": "1-101611828",
+      "providerName": "Tapton Edge Rest Home Limited"
+    },
+    {
+      "providerId": "1-101611837",
+      "providerName": "Taptonholme"
+    },
+    {
+      "providerId": "1-101611846",
+      "providerName": "Cherry Health Care Limited"
+    },
+    {
+      "providerId": "1-101611855",
+      "providerName": "Diva Care Limited"
+    },
+    {
+      "providerId": "1-101611864",
+      "providerName": "Hurst Manor Limited"
+    },
+    {
+      "providerId": "1-101611873",
+      "providerName": "Maners Care Limited"
+    },
+    {
+      "providerId": "1-101611882",
+      "providerName": "Bridge House (Residential Home) Limited"
+    },
+    {
+      "providerId": "1-101611891",
+      "providerName": "Banff Securities Limited"
+    },
+    {
+      "providerId": "1-101611900",
+      "providerName": "Bethany Christian Home Trust"
+    },
+    {
+      "providerId": "1-101611909",
+      "providerName": "Dr Pepper's Care Corporation Limited"
+    },
+    {
+      "providerId": "1-101611918",
+      "providerName": "Abbeyfield Tamar Extra Care Society"
+    },
+    {
+      "providerId": "1-101611927",
+      "providerName": "J.A.N. Limited"
+    },
+    {
+      "providerId": "1-101611936",
+      "providerName": "Premiere Health Limited"
+    },
+    {
+      "providerId": "1-101611945",
+      "providerName": "Convent of the Sisters of Charity"
+    },
+    {
+      "providerId": "1-101611954",
+      "providerName": "Camphill Devon Community Limited"
+    },
+    {
+      "providerId": "1-101611963",
+      "providerName": "Albemarle Rest Home Ltd"
+    },
+    {
+      "providerId": "1-101611972",
+      "providerName": "The Rugby Free Church Homes For The Aged"
+    },
+    {
+      "providerId": "1-101611981",
+      "providerName": "Crosscrown Limited"
+    },
+    {
+      "providerId": "1-101611990",
+      "providerName": "Dwell Limited"
+    },
+    {
+      "providerId": "1-101611999",
+      "providerName": "Individual Care Services"
+    },
+    {
+      "providerId": "1-101612008",
+      "providerName": "Swinnerton Trust"
+    },
+    {
+      "providerId": "1-101612017",
+      "providerName": "Barnham Manor Limited"
+    },
+    {
+      "providerId": "1-101612026",
+      "providerName": "Shirley Old Peoples Welfare Committee"
+    },
+    {
+      "providerId": "1-101612035",
+      "providerName": "Sir Josiah Mason's Care Charity"
+    },
+    {
+      "providerId": "1-101612044",
+      "providerName": "Rayner House and Yew Trees Limited"
+    },
+    {
+      "providerId": "1-101612053",
+      "providerName": "Olton Grange Residential Home"
+    },
+    {
+      "providerId": "1-101612062",
+      "providerName": "Damson Care"
+    },
+    {
+      "providerId": "1-101612071",
+      "providerName": "St Andrew's House"
+    },
+    {
+      "providerId": "1-101612080",
+      "providerName": "Bartholamew Lodge Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101612089",
+      "providerName": "Kaleidoscope Plus Group"
+    },
+    {
+      "providerId": "1-101612098",
+      "providerName": "H.A.S. Careplus Limited"
+    },
+    {
+      "providerId": "1-101612107",
+      "providerName": "The Hermitage Charity Care Trust"
+    },
+    {
+      "providerId": "1-101612116",
+      "providerName": "The Poplars Limited"
+    },
+    {
+      "providerId": "1-101612125",
+      "providerName": "Hilton Residential Homes Limited"
+    },
+    {
+      "providerId": "1-101612134",
+      "providerName": "Woodcrofts Residential Homes Limited"
+    },
+    {
+      "providerId": "1-101612143",
+      "providerName": "The Daughters of Charity of St Vincent de Paul"
+    },
+    {
+      "providerId": "1-101612152",
+      "providerName": "Midplant Limited"
+    },
+    {
+      "providerId": "1-101612170",
+      "providerName": "Peacehaven House"
+    },
+    {
+      "providerId": "1-101612179",
+      "providerName": "Minearch Limited"
+    },
+    {
+      "providerId": "1-101612188",
+      "providerName": "Laburnum House (Shaw) Limited"
+    },
+    {
+      "providerId": "1-101612197",
+      "providerName": "Laurel Bank Residential Care Home Limited"
+    },
+    {
+      "providerId": "1-101612206",
+      "providerName": "Polebank Care Home Ltd"
+    },
+    {
+      "providerId": "1-101612214",
+      "providerName": "Bickham House Trustees"
+    },
+    {
+      "providerId": "1-101612223",
+      "providerName": "Jewelglen Limited"
+    },
+    {
+      "providerId": "1-101612232",
+      "providerName": "Boldlawn Limited"
+    },
+    {
+      "providerId": "1-101612241",
+      "providerName": "Aurem Care (Lostock Lodge) Limited"
+    },
+    {
+      "providerId": "1-101612250",
+      "providerName": "Westcliffe Homes Limited"
+    },
+    {
+      "providerId": "1-101612259",
+      "providerName": "Link-Ability"
+    },
+    {
+      "providerId": "1-101612268",
+      "providerName": "British Limbless Ex-Service Men's Association"
+    },
+    {
+      "providerId": "1-101612277",
+      "providerName": "G Hill Limited"
+    },
+    {
+      "providerId": "1-101612286",
+      "providerName": "Calmearth Limited"
+    },
+    {
+      "providerId": "1-101612295",
+      "providerName": "Superior Care Homes Ltd"
+    },
+    {
+      "providerId": "1-101612313",
+      "providerName": "Pendene House Residential Home Limited"
+    },
+    {
+      "providerId": "1-101612322",
+      "providerName": "Hamra Associates Limited"
+    },
+    {
+      "providerId": "1-101612331",
+      "providerName": "Imalgo Limited"
+    },
+    {
+      "providerId": "1-101612340",
+      "providerName": "Welford Court Limited"
+    },
+    {
+      "providerId": "1-101612349",
+      "providerName": "Hoyland Hall Limited"
+    },
+    {
+      "providerId": "1-101612358",
+      "providerName": "Healthmade Limited"
+    },
+    {
+      "providerId": "1-101612367",
+      "providerName": "The Emmie Dixon Home Limited"
+    },
+    {
+      "providerId": "1-101612376",
+      "providerName": "MNS Care Plc"
+    },
+    {
+      "providerId": "1-101612385",
+      "providerName": "Belmont Villa Care Home Limited"
+    },
+    {
+      "providerId": "1-101612394",
+      "providerName": "Hexagon Housing Association"
+    },
+    {
+      "providerId": "1-101612403",
+      "providerName": "Cedarmore Housing Association Limited"
+    },
+    {
+      "providerId": "1-101612412",
+      "providerName": "C.N.V. Limited"
+    },
+    {
+      "providerId": "1-101612421",
+      "providerName": "Belvidere Residential Care Home Limited"
+    },
+    {
+      "providerId": "1-101612430",
+      "providerName": "Westwood Housing Association"
+    },
+    {
+      "providerId": "1-101612439",
+      "providerName": "Nightingale Retirement Care Limited"
+    },
+    {
+      "providerId": "1-101612448",
+      "providerName": "Schoolmistresses And Governesses Benevolent Institution"
+    },
+    {
+      "providerId": "1-101612457",
+      "providerName": "Angel Home Limited"
+    },
+    {
+      "providerId": "1-101612466",
+      "providerName": "Sherburn House Charity"
+    },
+    {
+      "providerId": "1-101612475",
+      "providerName": "Premier Care Homes Limited"
+    },
+    {
+      "providerId": "1-101612484",
+      "providerName": "Benridge Care Homes Limited"
+    },
+    {
+      "providerId": "1-101612493",
+      "providerName": "Durham Aged Mineworkers' Homes Association"
+    },
+    {
+      "providerId": "1-101612502",
+      "providerName": "Education and Services for People with Autism Limited"
+    },
+    {
+      "providerId": "1-101612511",
+      "providerName": "Shotley Park Homes for the Elderly Limited"
+    },
+    {
+      "providerId": "1-101612520",
+      "providerName": "The Order of the Good and Perpetual Succour"
+    },
+    {
+      "providerId": "1-101612529",
+      "providerName": "Aikmo Medical Limited"
+    },
+    {
+      "providerId": "1-101612538",
+      "providerName": "Appleview Homes Limited"
+    },
+    {
+      "providerId": "1-101612547",
+      "providerName": "Harrogate Emmaus Trust"
+    },
+    {
+      "providerId": "1-101612556",
+      "providerName": "Sherwood Care Homes Limited"
+    },
+    {
+      "providerId": "1-101612573",
+      "providerName": "The Hesley Group Limited"
+    },
+    {
+      "providerId": "1-101612582",
+      "providerName": "Dresden House Limited"
+    },
+    {
+      "providerId": "1-101612591",
+      "providerName": "Langdon College"
+    },
+    {
+      "providerId": "1-101612600",
+      "providerName": "Sunnybank P.R.S. Limited"
+    },
+    {
+      "providerId": "1-101612609",
+      "providerName": "Independent Options (North West)"
+    },
+    {
+      "providerId": "1-101612618",
+      "providerName": "Clifton House (RCH) Limited"
+    },
+    {
+      "providerId": "1-101612627",
+      "providerName": "Bramhall & Woodford Old People's Welfare Committee"
+    },
+    {
+      "providerId": "1-101612636",
+      "providerName": "Denmax Limited"
+    },
+    {
+      "providerId": "1-101612645",
+      "providerName": "Cherryfield Homes Limited"
+    },
+    {
+      "providerId": "1-101612654",
+      "providerName": "Spectrum Support Services Limited"
+    },
+    {
+      "providerId": "1-101612663",
+      "providerName": "Knights Care (3) Limited"
+    },
+    {
+      "providerId": "1-101612672",
+      "providerName": "Hucknall Hope Lea Project Limited"
+    },
+    {
+      "providerId": "1-101612681",
+      "providerName": "Spring Lane Nursing Home (Lambley) Limited"
+    },
+    {
+      "providerId": "1-101612690",
+      "providerName": "Lantraz Co. Ltd"
+    },
+    {
+      "providerId": "1-101612699",
+      "providerName": "Roselea Care Homes Limited"
+    },
+    {
+      "providerId": "1-101612708",
+      "providerName": "Little Trefewha Limited"
+    },
+    {
+      "providerId": "1-101612717",
+      "providerName": "Cornwall Old People's Housing Society"
+    },
+    {
+      "providerId": "1-101612726",
+      "providerName": "Liskeard Eventide Home Limited"
+    },
+    {
+      "providerId": "1-101612735",
+      "providerName": "AJ & Co.(Devon) Ltd"
+    },
+    {
+      "providerId": "1-101612744",
+      "providerName": "Blakeshields Limited"
+    },
+    {
+      "providerId": "1-101612753",
+      "providerName": "Withins (Breightmet) Limited"
+    },
+    {
+      "providerId": "1-101612762",
+      "providerName": "Cornerstone Trust"
+    },
+    {
+      "providerId": "1-101612771",
+      "providerName": "Institute of Our Lady of Mercy"
+    },
+    {
+      "providerId": "1-101612780",
+      "providerName": "Abbeyfield Lancashire Extra Care Society Limited"
+    },
+    {
+      "providerId": "1-101612789",
+      "providerName": "Franciscan Missionaries of St Joseph"
+    },
+    {
+      "providerId": "1-101612798",
+      "providerName": "Holgate House Limited"
+    },
+    {
+      "providerId": "1-101612807",
+      "providerName": "Primrose House (Morecambe) Limited"
+    },
+    {
+      "providerId": "1-101612816",
+      "providerName": "J.T. Care Homes Limited"
+    },
+    {
+      "providerId": "1-101612825",
+      "providerName": "Derby Lodge (Preston) Limited"
+    },
+    {
+      "providerId": "1-101612834",
+      "providerName": "Mr John Forrester Collins & Mr Jeremy Russel Collins & Mr Antony Dixon"
+    },
+    {
+      "providerId": "1-101612852",
+      "providerName": "One Fylde Limited"
+    },
+    {
+      "providerId": "1-101612861",
+      "providerName": "Abbeyfield Lancaster Society Limited(The)"
+    },
+    {
+      "providerId": "1-101612870",
+      "providerName": "Cumberland And Westmorland Convalescent Institution"
+    },
+    {
+      "providerId": "1-101612888",
+      "providerName": "The Camden Society"
+    },
+    {
+      "providerId": "1-101612897",
+      "providerName": "Mr & Mrs M Bourke"
+    },
+    {
+      "providerId": "1-101612906",
+      "providerName": "Hazelwood Lodge Limited"
+    },
+    {
+      "providerId": "1-101612915",
+      "providerName": "Mr & Mrs M Hopley"
+    },
+    {
+      "providerId": "1-101612924",
+      "providerName": "Mr C and Mrs LA Gopaul"
+    },
+    {
+      "providerId": "1-101612933",
+      "providerName": "St Mary's Convent and Nursing Home (Chiswick)"
+    },
+    {
+      "providerId": "1-101612942",
+      "providerName": "Amberbrook Limited"
+    },
+    {
+      "providerId": "1-101612951",
+      "providerName": "Prospects for People with Learning Disabilities"
+    },
+    {
+      "providerId": "1-101612960",
+      "providerName": "Charnley Care Homes Limited"
+    },
+    {
+      "providerId": "1-101612969",
+      "providerName": "Abbeyfield Reading Society Limited(The)"
+    },
+    {
+      "providerId": "1-101612978",
+      "providerName": "Purley Park Trust Limited"
+    },
+    {
+      "providerId": "1-101612996",
+      "providerName": "Boulters Lock Residential Home Limited"
+    },
+    {
+      "providerId": "1-101613005",
+      "providerName": "The Cinema And Television Benevolent Fund"
+    },
+    {
+      "providerId": "1-101613014",
+      "providerName": "The Trustees of the Earley Charity"
+    },
+    {
+      "providerId": "1-101613023",
+      "providerName": "Yeldall Christian Centres"
+    },
+    {
+      "providerId": "1-101613032",
+      "providerName": "Extraservice Limited"
+    },
+    {
+      "providerId": "1-101613041",
+      "providerName": "Home of Comfort for Invalids"
+    },
+    {
+      "providerId": "1-101613050",
+      "providerName": "Delicourt Limited"
+    },
+    {
+      "providerId": "1-101613059",
+      "providerName": "Autism Hampshire"
+    },
+    {
+      "providerId": "1-101613068",
+      "providerName": "Mrs Jacqueline Soomary"
+    },
+    {
+      "providerId": "1-101613077",
+      "providerName": "Penhaligon Limited"
+    },
+    {
+      "providerId": "1-101613086",
+      "providerName": "Minstead Trust"
+    },
+    {
+      "providerId": "1-101613095",
+      "providerName": "Farnborough & Cove War Memorial Hospital Trust Ltd"
+    },
+    {
+      "providerId": "1-101613104",
+      "providerName": "St John's Winchester Charity"
+    },
+    {
+      "providerId": "1-101613113",
+      "providerName": "Britaniascheme Limited"
+    },
+    {
+      "providerId": "1-101613122",
+      "providerName": "Stanwell Rest Home Limited"
+    },
+    {
+      "providerId": "1-101613131",
+      "providerName": "Hestia Care Limited"
+    },
+    {
+      "providerId": "1-101613140",
+      "providerName": "Thorngate Almshouse Trust"
+    },
+    {
+      "providerId": "1-101613149",
+      "providerName": "Glyn Residential Limited"
+    },
+    {
+      "providerId": "1-101613158",
+      "providerName": "Farnborough (War Memorial) Housing Society Limited"
+    },
+    {
+      "providerId": "1-101613176",
+      "providerName": "The Fortune Centre of Riding Therapy"
+    },
+    {
+      "providerId": "1-101613185",
+      "providerName": "Laurel Care Home Limited"
+    },
+    {
+      "providerId": "1-101613194",
+      "providerName": "Island Healthcare Limited"
+    },
+    {
+      "providerId": "1-101613203",
+      "providerName": "The Hampshire Isle Of Wight And Channel Islands Association For Deaf People Limited"
+    },
+    {
+      "providerId": "1-101613212",
+      "providerName": "Georgia Rose Residential Care Limited"
+    },
+    {
+      "providerId": "1-101613221",
+      "providerName": "Mentfade Limited"
+    },
+    {
+      "providerId": "1-101613230",
+      "providerName": "The Trustees of Bethany Homestead"
+    },
+    {
+      "providerId": "1-101613239",
+      "providerName": "Kentbrim Limited"
+    },
+    {
+      "providerId": "1-101613248",
+      "providerName": "Cedarwood Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101613257",
+      "providerName": "Countryview (Warkton) Limited"
+    },
+    {
+      "providerId": "1-101613266",
+      "providerName": "Raunds Lodge Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101613275",
+      "providerName": "Pretty 333 Limited"
+    },
+    {
+      "providerId": "1-101613284",
+      "providerName": "Christchurch Court Limited"
+    },
+    {
+      "providerId": "1-101613293",
+      "providerName": "Clarex Limited"
+    },
+    {
+      "providerId": "1-101613302",
+      "providerName": "Crescent Home Limited"
+    },
+    {
+      "providerId": "1-101613311",
+      "providerName": "Charity of St Giles"
+    },
+    {
+      "providerId": "1-101613320",
+      "providerName": "Professional Care Systems Limited"
+    },
+    {
+      "providerId": "1-101613338",
+      "providerName": "BHT Sussex"
+    },
+    {
+      "providerId": "1-101613347",
+      "providerName": "Bymead House Limited"
+    },
+    {
+      "providerId": "1-101613356",
+      "providerName": "Ashtonleigh Residential Care Home Ltd"
+    },
+    {
+      "providerId": "1-101613365",
+      "providerName": "Clapham Lodge Limited"
+    },
+    {
+      "providerId": "1-101613374",
+      "providerName": "Trustees of De La Salle Order (GB)"
+    },
+    {
+      "providerId": "1-101613383",
+      "providerName": "Beehive Care Group"
+    },
+    {
+      "providerId": "1-101613401",
+      "providerName": "Heathfield (Horsham) Limited"
+    },
+    {
+      "providerId": "1-101613419",
+      "providerName": "Oakland Court Limited"
+    },
+    {
+      "providerId": "1-101613428",
+      "providerName": "Rowfant House Limited"
+    },
+    {
+      "providerId": "1-101613437",
+      "providerName": "Westermain Limited"
+    },
+    {
+      "providerId": "1-101613446",
+      "providerName": "Hope Keith Villagers Trust(The)"
+    },
+    {
+      "providerId": "1-101613455",
+      "providerName": "Kairmoore Ltd"
+    },
+    {
+      "providerId": "1-101613464",
+      "providerName": "Riseley Beds Limited"
+    },
+    {
+      "providerId": "1-101613473",
+      "providerName": "Chase House Limited"
+    },
+    {
+      "providerId": "1-101613491",
+      "providerName": "The Edmund Trust"
+    },
+    {
+      "providerId": "1-101613500",
+      "providerName": "Paxton Hall Care Ltd"
+    },
+    {
+      "providerId": "1-101613509",
+      "providerName": "The Old Vicarage (Ely) Limited"
+    },
+    {
+      "providerId": "1-101613518",
+      "providerName": "Pilgrim Havens"
+    },
+    {
+      "providerId": "1-101613527",
+      "providerName": "Guy Curtis Care Limited"
+    },
+    {
+      "providerId": "1-101613536",
+      "providerName": "Foundation of Edward Storey"
+    },
+    {
+      "providerId": "1-101613545",
+      "providerName": "Corvell Health Care Limited"
+    },
+    {
+      "providerId": "1-101613554",
+      "providerName": "The Southend-On-Sea Darby & Joan Organisation Limited"
+    },
+    {
+      "providerId": "1-101613563",
+      "providerName": "Westcliff Lodge Limited"
+    },
+    {
+      "providerId": "1-101613572",
+      "providerName": "Canaryford Limited"
+    },
+    {
+      "providerId": "1-101613581",
+      "providerName": "Lukka Care Homes Limited"
+    },
+    {
+      "providerId": "1-101613590",
+      "providerName": "The Silksworth Partnership"
+    },
+    {
+      "providerId": "1-101613599",
+      "providerName": "North East Autism Society"
+    },
+    {
+      "providerId": "1-101613608",
+      "providerName": "Aldbourne Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101613617",
+      "providerName": "Firlawn Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101613626",
+      "providerName": "Coronation Old People's Housing Society Limited"
+    },
+    {
+      "providerId": "1-101613635",
+      "providerName": "Curtis Homes Limited"
+    },
+    {
+      "providerId": "1-101613644",
+      "providerName": "Minchinhampton Centre For The Elderly Limited"
+    },
+    {
+      "providerId": "1-101613653",
+      "providerName": "The Cotswold Nursing Home Company Limited"
+    },
+    {
+      "providerId": "1-101613662",
+      "providerName": "Gloucestershire Old People's Housing Society Limited"
+    },
+    {
+      "providerId": "1-101613671",
+      "providerName": "Fountain Housing Association Limited"
+    },
+    {
+      "providerId": "1-101613680",
+      "providerName": "The Yercombe (Gloucestershire) Trust"
+    },
+    {
+      "providerId": "1-101613689",
+      "providerName": "The Norman Laud Association"
+    },
+    {
+      "providerId": "1-101613698",
+      "providerName": "Vermont Trust Limited"
+    },
+    {
+      "providerId": "1-101613707",
+      "providerName": "BEN - Motor and Allied Trades Benevolent Fund"
+    },
+    {
+      "providerId": "1-101613716",
+      "providerName": "Choiceclassic Limited"
+    },
+    {
+      "providerId": "1-101613725",
+      "providerName": "Chromolyte Limited"
+    },
+    {
+      "providerId": "1-101613743",
+      "providerName": "Dial House Care Limited"
+    },
+    {
+      "providerId": "1-101613761",
+      "providerName": "Diomark Care Limited"
+    },
+    {
+      "providerId": "1-101613770",
+      "providerName": "Clacton Family Trust Limited"
+    },
+    {
+      "providerId": "1-101613779",
+      "providerName": "Mansion House Retirement Home Limited"
+    },
+    {
+      "providerId": "1-101613788",
+      "providerName": "Kilkee Lodge Care Home Limited"
+    },
+    {
+      "providerId": "1-101613797",
+      "providerName": "St. Dominics Residential Home Limited"
+    },
+    {
+      "providerId": "1-101613806",
+      "providerName": "Sonnet Care Homes (Essex) Limited"
+    },
+    {
+      "providerId": "1-101613815",
+      "providerName": "Epping Care Home Limited"
+    },
+    {
+      "providerId": "1-101613824",
+      "providerName": "Dargaz Limited"
+    },
+    {
+      "providerId": "1-101613833",
+      "providerName": "St. Michael's Homes Limited"
+    },
+    {
+      "providerId": "1-101613842",
+      "providerName": "Kingswood Care Services Limited"
+    },
+    {
+      "providerId": "1-101613851",
+      "providerName": "Newland Hurst Limited"
+    },
+    {
+      "providerId": "1-101613860",
+      "providerName": "The Chace Rest Home Limited"
+    },
+    {
+      "providerId": "1-101613869",
+      "providerName": "Takepart Limited"
+    },
+    {
+      "providerId": "1-101613878",
+      "providerName": "Abbeyfield Hoylake & West Kirby Society Limited"
+    },
+    {
+      "providerId": "1-101613887",
+      "providerName": "Shadowsource Limited"
+    },
+    {
+      "providerId": "1-101613896",
+      "providerName": "Pinpoint Developments Limited"
+    },
+    {
+      "providerId": "1-101613905",
+      "providerName": "Allandale Care Group Limited"
+    },
+    {
+      "providerId": "1-101613914",
+      "providerName": "Milecertain Limited"
+    },
+    {
+      "providerId": "1-101613923",
+      "providerName": "Abbeyfield Wirral Extra Care Society Limited"
+    },
+    {
+      "providerId": "1-101613932",
+      "providerName": "Glancestyle Care Homes Limited"
+    },
+    {
+      "providerId": "1-101613941",
+      "providerName": "Assured Services Limited"
+    },
+    {
+      "providerId": "1-101613950",
+      "providerName": "Astral Lodge Limited"
+    },
+    {
+      "providerId": "1-101613959",
+      "providerName": "Cambuslodge Uk Limited"
+    },
+    {
+      "providerId": "1-101613968",
+      "providerName": "London Cyrenians Housing Limited"
+    },
+    {
+      "providerId": "1-101613977",
+      "providerName": "The Abbeyfield Beaconsfield Society Limited"
+    },
+    {
+      "providerId": "1-101613986",
+      "providerName": "Chilton House Limited"
+    },
+    {
+      "providerId": "1-101613995",
+      "providerName": "Glenbank Care Home Ltd"
+    },
+    {
+      "providerId": "1-101614004",
+      "providerName": "Perseverance Trust"
+    },
+    {
+      "providerId": "1-101614013",
+      "providerName": "Leonard Pulham Limited"
+    },
+    {
+      "providerId": "1-101614022",
+      "providerName": "Peach Glen Limited"
+    },
+    {
+      "providerId": "1-101614031",
+      "providerName": "Candour Care Services limited"
+    },
+    {
+      "providerId": "1-101614040",
+      "providerName": "Abbeyfield Hertfordshire Residential Care Society Limited"
+    },
+    {
+      "providerId": "1-101614049",
+      "providerName": "Abbeyfield St.Albans Society Limited(The)"
+    },
+    {
+      "providerId": "1-101614058",
+      "providerName": "Watford And District Mencap Society"
+    },
+    {
+      "providerId": "1-101614067",
+      "providerName": "The Jubilee House Care Trust Limited"
+    },
+    {
+      "providerId": "1-101614076",
+      "providerName": "Greenswan Consultants Limited"
+    },
+    {
+      "providerId": "1-101614085",
+      "providerName": "Shenleybury House Limited"
+    },
+    {
+      "providerId": "1-101614094",
+      "providerName": "Harpenden Mencap"
+    },
+    {
+      "providerId": "1-101614103",
+      "providerName": "P C Presence and F Presence"
+    },
+    {
+      "providerId": "1-101614112",
+      "providerName": "Cherry Tree Housing Association Limited"
+    },
+    {
+      "providerId": "1-101614121",
+      "providerName": "Medical Resources Worldwide Limited"
+    },
+    {
+      "providerId": "1-101614130",
+      "providerName": "Peaceknoll Limited"
+    },
+    {
+      "providerId": "1-101614139",
+      "providerName": "Verulam Health Care Limited"
+    },
+    {
+      "providerId": "1-101614148",
+      "providerName": "Villa Scalabrini"
+    },
+    {
+      "providerId": "1-101614166",
+      "providerName": "Boothferry Housing Association Limited"
+    },
+    {
+      "providerId": "1-101614175",
+      "providerName": "DEMA Residential Homes Limited"
+    },
+    {
+      "providerId": "1-101614184",
+      "providerName": "Wellington House Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101614193",
+      "providerName": "Parwich Hospital Trust"
+    },
+    {
+      "providerId": "1-101614202",
+      "providerName": "Greenacres Nursing Homes Limited"
+    },
+    {
+      "providerId": "1-101614211",
+      "providerName": "Belle Rose Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101614220",
+      "providerName": "Dorset Healthcare Ltd"
+    },
+    {
+      "providerId": "1-101614238",
+      "providerName": "Lifecaring Holdings Limited"
+    },
+    {
+      "providerId": "1-101614247",
+      "providerName": "Riverside Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101614256",
+      "providerName": "Hartlands Care Home Limited"
+    },
+    {
+      "providerId": "1-101614265",
+      "providerName": "Acepay Limited"
+    },
+    {
+      "providerId": "1-101614274",
+      "providerName": "Heritage Healthcare (Midlands) Limited"
+    },
+    {
+      "providerId": "1-101614283",
+      "providerName": "Caldmore Area Housing Association Limited"
+    },
+    {
+      "providerId": "1-101614292",
+      "providerName": "Arcare (West Midlands) Limited"
+    },
+    {
+      "providerId": "1-101614301",
+      "providerName": "West London Mission"
+    },
+    {
+      "providerId": "1-101614310",
+      "providerName": "The Devon Sheltered Homes Trust"
+    },
+    {
+      "providerId": "1-10161431048",
+      "providerName": "Daily Comfort Healthcare Ltd"
+    },
+    {
+      "providerId": "1-101614319",
+      "providerName": "Barrington House Limited"
+    },
+    {
+      "providerId": "1-101614328",
+      "providerName": "Eastbourne Free Church Women's Council Incorporated Limited"
+    },
+    {
+      "providerId": "1-101614337",
+      "providerName": "Grovestead Limited"
+    },
+    {
+      "providerId": "1-101614346",
+      "providerName": "Hastings and Rother Voluntary Association for the Blind"
+    },
+    {
+      "providerId": "1-101614355",
+      "providerName": "Abbey Care Saxon Limited"
+    },
+    {
+      "providerId": "1-101614364",
+      "providerName": "The Emilie Galloway Home Of Rest"
+    },
+    {
+      "providerId": "1-101614373",
+      "providerName": "Hastings and Bexhill Mencap Society"
+    },
+    {
+      "providerId": "1-101614382",
+      "providerName": "Carefore Homes Limited"
+    },
+    {
+      "providerId": "1-101614391",
+      "providerName": "Gary Richard Homes Limited"
+    },
+    {
+      "providerId": "1-101614400",
+      "providerName": "Yorkvalley Limited"
+    },
+    {
+      "providerId": "1-101614409",
+      "providerName": "Society Of Christ (Great Britain)"
+    },
+    {
+      "providerId": "1-101614418",
+      "providerName": "Manchester & District Housing Association Limited"
+    },
+    {
+      "providerId": "1-101614427",
+      "providerName": "Roja Limited"
+    },
+    {
+      "providerId": "1-101614436",
+      "providerName": "Trustees of the Congregation of our Lady of Charity"
+    },
+    {
+      "providerId": "1-101614445",
+      "providerName": "Homesend Limited"
+    },
+    {
+      "providerId": "1-101614454",
+      "providerName": "Larongrove Limited"
+    },
+    {
+      "providerId": "1-101614463",
+      "providerName": "Longley Health Care Limited"
+    },
+    {
+      "providerId": "1-101614472",
+      "providerName": "Rose Cottage Nursing Care Limited"
+    },
+    {
+      "providerId": "1-101614481",
+      "providerName": "Doveleigh Care Limited"
+    },
+    {
+      "providerId": "1-101614490",
+      "providerName": "Abbeyfield East Devon Extra Care Society Limited"
+    },
+    {
+      "providerId": "1-101614499",
+      "providerName": "The Ashgrove Care Company Limited"
+    },
+    {
+      "providerId": "1-101614508",
+      "providerName": "Shandford Residential Care Home Limited"
+    },
+    {
+      "providerId": "1-101614517",
+      "providerName": "Summerleaze Home Ltd"
+    },
+    {
+      "providerId": "1-101614526",
+      "providerName": "Forget-Me-Not Project"
+    },
+    {
+      "providerId": "1-101614535",
+      "providerName": "The Legrand Nursing Home Limited"
+    },
+    {
+      "providerId": "1-101614544",
+      "providerName": "Leacroft Lodge Limited"
+    },
+    {
+      "providerId": "1-101614553",
+      "providerName": "Glenmore Trust"
+    },
+    {
+      "providerId": "1-101614562",
+      "providerName": "Dales Care Homes Limited"
+    },
+    {
+      "providerId": "1-101614571",
+      "providerName": "Cumbria Emmaus Trust"
+    },
+    {
+      "providerId": "1-101614580",
+      "providerName": "The Henry Lonsdale Trust"
+    },
+    {
+      "providerId": "1-101614589",
+      "providerName": "Vision Support Barrow & District"
+    },
+    {
+      "providerId": "1-101614598",
+      "providerName": "Abbeyfield (Lakeland Extra-Care) Society Limited (The)"
+    },
+    {
+      "providerId": "1-101614607",
+      "providerName": "Kendal Care Limited"
+    },
+    {
+      "providerId": "1-101614616",
+      "providerName": "Abbeyfield Furness Extra Care Society Limited"
+    }
+  ],
+  "uri": "\/providers"
+}
