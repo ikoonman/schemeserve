@@ -5,6 +5,13 @@ The test covers the requirements as specified in `docs/NetCodingChallenge.md`.
 
 Personally, I would have written this as one generic proxy/cache service that can sit in front of any external provider, not just CQC. The provider is chosen by an id/slug in the URL (e.g. `v1/{source}/providers` and `v1/{source}/providers/{id}`, or `https://{slug}.sc-proxy.internal/v1/providers`), and each provider's base URL, keys, expiry and the mapping from its JSON payload to Schemeserve's internal schema live in external configuration files. Adding a new source then means adding configuration, not code. Together with in-memory reads and regular syncs, this is a stronger and more versatile design. Although I considered this approach, I deliberately didn't implemented it because it is out of scope and I don't have enough information. Schema mapping(external to internal) could have then been constructed via a CLI tool for review before importing, or via a browser UI interface. 20 internally managed proxies/caches would become 1 interface.
 
+### Unknowns for generic proxy/cache
+* Authentication types.
+* Upstream API calls.
+* How upstream response data relates.
+* How it is mapped internally.
+* How it is obtained from the cache internally, and how the data relates to each other.
+
 Thank you for the opportunity to illustrate my creative and problem-solving capabilities.
 
 ## Disclosure
@@ -27,6 +34,7 @@ Thank you for the opportunity to illustrate my creative and problem-solving capa
 * End-points tested locally via Postman.
 * Maximum page size is set by `Sources:Cqc:MaxPerPage` in appsettings.json (1000, CQC's own page size).
 * No database migrations. The tables are created at startup if they don't exist, but existing tables are never changed. The database is only a cache of CQC data, so after a schema change, delete the CqcCache database and restart the API to recreate and refill it.
+* No Schemeserve internal meta data is required, that maps to a specific provider entry.
 
 ### What I could have done
 I am aware that .NET has advanced leaps-and-bounds since I last actively used it, and there are most likely more elegant .NET solutions I am not aware of. Quick research revealed some, such as Riok.Mapperly, which generates mapping code at compile time instead of it being written by hand (see `CqcProviderRow.FromProvider` / `CqcProviderRow.ToProvider`).
